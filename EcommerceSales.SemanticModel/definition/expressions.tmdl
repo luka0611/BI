@@ -1,0 +1,4 @@
+/// Folder that contains the CSV files. Change this to the "data" folder of
+/// the cloned repository on your machine (Transform data > Edit parameters).
+expression DataFolderPath = "C:\Projects\BI\data" meta [IsParameterQuery=true, Type="Text", IsParameterQueryRequired=true]
+	annotation PBI_ResultType = Text

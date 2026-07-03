@@ -1,0 +1,60 @@
+/// Customer dimension: who bought, and where they live (city / state / region).
+table DimCustomers
+
+	column customer_id
+		dataType: string
+		summarizeBy: none
+		sourceColumn: customer_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column customer_name
+		dataType: string
+		summarizeBy: none
+		sourceColumn: customer_name
+
+		annotation SummarizationSetBy = Automatic
+
+	column city
+		dataType: string
+		dataCategory: City
+		summarizeBy: none
+		sourceColumn: city
+
+		annotation SummarizationSetBy = Automatic
+
+	column state
+		dataType: string
+		dataCategory: StateOrProvince
+		summarizeBy: none
+		sourceColumn: state
+
+		annotation SummarizationSetBy = Automatic
+
+	column region
+		dataType: string
+		summarizeBy: none
+		sourceColumn: region
+
+		annotation SummarizationSetBy = Automatic
+
+	partition DimCustomers = m
+		mode: import
+		source =
+				let
+					Source = Csv.Document(File.Contents(DataFolderPath & "\dim_customers.csv"), [Delimiter = ",", Columns = 5, Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+					PromotedHeaders = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+					ChangedType = Table.TransformColumnTypes(
+						PromotedHeaders,
+						{
+							{"customer_id", type text},
+							{"customer_name", type text},
+							{"city", type text},
+							{"state", type text},
+							{"region", type text}
+						}
+					)
+				in
+					ChangedType
+
+	annotation PBI_ResultType = Table

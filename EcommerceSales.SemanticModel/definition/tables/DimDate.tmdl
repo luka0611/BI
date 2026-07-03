@@ -1,0 +1,93 @@
+/// Calendar dimension generated with DAX and marked as the model's date table.
+/// Covers every day of the sales window so time intelligence (YTD, YoY) works.
+table DimDate
+	dataCategory: Time
+
+	column Date
+		dataType: dateTime
+		isKey
+		formatString: dd/mm/yyyy
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Date]
+
+		annotation SummarizationSetBy = Automatic
+
+	column Year
+		dataType: int64
+		formatString: 0
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Year]
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Month Number'
+		dataType: int64
+		formatString: 0
+		summarizeBy: none
+		isNameInferred
+		isHidden
+		sourceColumn: [Month Number]
+
+		annotation SummarizationSetBy = Automatic
+
+	column Month
+		dataType: string
+		summarizeBy: none
+		isNameInferred
+		sortByColumn: 'Month Number'
+		sourceColumn: [Month]
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Year-Month'
+		dataType: string
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Year-Month]
+
+		annotation SummarizationSetBy = Automatic
+
+	column Quarter
+		dataType: string
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Quarter]
+
+		annotation SummarizationSetBy = Automatic
+
+	column Weekday
+		dataType: string
+		summarizeBy: none
+		isNameInferred
+		sortByColumn: 'Weekday Number'
+		sourceColumn: [Weekday]
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Weekday Number'
+		dataType: int64
+		formatString: 0
+		summarizeBy: none
+		isNameInferred
+		isHidden
+		sourceColumn: [Weekday Number]
+
+		annotation SummarizationSetBy = Automatic
+
+	partition DimDate = calculated
+		mode: import
+		source =
+				ADDCOLUMNS (
+					CALENDAR ( DATE ( 2024, 1, 1 ), DATE ( 2026, 12, 31 ) ),
+					"Year", YEAR ( [Date] ),
+					"Month Number", MONTH ( [Date] ),
+					"Month", FORMAT ( [Date], "mmm" ),
+					"Year-Month", FORMAT ( [Date], "yyyy-mm" ),
+					"Quarter", "Q" & FORMAT ( [Date], "q" ),
+					"Weekday", FORMAT ( [Date], "ddd" ),
+					"Weekday Number", WEEKDAY ( [Date], 2 )
+				)
+
+	annotation PBI_ResultType = Table

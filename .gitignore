@@ -1,0 +1,8 @@
+# Power BI local caches and user-specific settings (never commit these)
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+*.pbix.tmp
+
+# Python
+__pycache__/
+*.pyc

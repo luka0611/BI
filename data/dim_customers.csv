@@ -1,0 +1,1501 @@
+customer_id,customer_name,city,state,region
+C00001,Diego Silva,Juazeiro do Norte,CE,Nordeste
+C00002,Hugo Rodrigues,Petrópolis,RJ,Sudeste
+C00003,Caio Fernandes,São Paulo,SP,Sudeste
+C00004,Nicolas Santos,Recife,PE,Nordeste
+C00005,Gabriela Pereira,São Paulo,SP,Sudeste
+C00006,Gabriela Fernandes,Feira de Santana,BA,Nordeste
+C00007,Olívia Vieira,Santos,SP,Sudeste
+C00008,Fernanda Ferreira,Ribeirão Preto,SP,Sudeste
+C00009,Isabela Rodrigues,Belo Horizonte,MG,Sudeste
+C00010,Karina Souza,Palmas,TO,Norte
+C00011,Diego Ribeiro,Uberlândia,MG,Sudeste
+C00012,Isabela Santos,Caruaru,PE,Nordeste
+C00013,Samuel Souza,Londrina,PR,Sul
+C00014,Samuel Gomes,Santos,SP,Sudeste
+C00015,Gabriela Oliveira,Salvador,BA,Nordeste
+C00016,Hugo Gomes,São Luís,MA,Nordeste
+C00017,Igor Souza,Ribeirão Preto,SP,Sudeste
+C00018,Olívia Ribeiro,Rio de Janeiro,RJ,Sudeste
+C00019,Lucas Alves,Juiz de Fora,MG,Sudeste
+C00020,Débora Oliveira,Petrópolis,RJ,Sudeste
+C00021,Felipe Fernandes,Fortaleza,CE,Nordeste
+C00022,Olívia Martins,Santos,SP,Sudeste
+C00023,Débora Fernandes,Fortaleza,CE,Nordeste
+C00024,Karina Santos,Goiânia,GO,Centro-Oeste
+C00025,Gustavo Costa,Ribeirão Preto,SP,Sudeste
+C00026,Carla Alves,Petrópolis,RJ,Sudeste
+C00027,Karina Alves,Rondonópolis,MT,Centro-Oeste
+C00028,Júlia Almeida,Belo Horizonte,MG,Sudeste
+C00029,Eduarda Pereira,Petrópolis,RJ,Sudeste
+C00030,Samuel Lima,Feira de Santana,BA,Nordeste
+C00031,Mariana Ribeiro,Salvador,BA,Nordeste
+C00032,Rafaela Lopes,São Paulo,SP,Sudeste
+C00033,Bruno Souza,Manaus,AM,Norte
+C00034,Felipe Carvalho,Fortaleza,CE,Nordeste
+C00035,Mariana Barbosa,Uberlândia,MG,Sudeste
+C00036,Isabela Fernandes,Florianópolis,SC,Sul
+C00037,Enzo Souza,Anápolis,GO,Centro-Oeste
+C00038,Karina Souza,Mossoró,RN,Nordeste
+C00039,Felipe Almeida,Curitiba,PR,Sul
+C00040,Júlia Lima,Campo Grande,MS,Centro-Oeste
+C00041,Thiago Souza,Pelotas,RS,Sul
+C00042,Helena Soares,Petrópolis,RJ,Sudeste
+C00043,Eduarda Ribeiro,Campinas,SP,Sudeste
+C00044,Fernanda Soares,Florianópolis,SC,Sul
+C00045,Karina Lopes,Recife,PE,Nordeste
+C00046,Thiago Ribeiro,Santos,SP,Sudeste
+C00047,Bruno Pereira,Petrópolis,RJ,Sudeste
+C00048,Carla Lopes,São Paulo,SP,Sudeste
+C00049,Samuel Rodrigues,Palmas,TO,Norte
+C00050,Pedro Fernandes,São Luís,MA,Nordeste
+C00051,Rafaela Barbosa,Niterói,RJ,Sudeste
+C00052,Thiago Fernandes,Campinas,SP,Sudeste
+C00053,João Martins,Rondonópolis,MT,Centro-Oeste
+C00054,Júlia Soares,Londrina,PR,Sul
+C00055,Hugo Pereira,São Paulo,SP,Sudeste
+C00056,Ana Vieira,Juiz de Fora,MG,Sudeste
+C00057,Tatiane Pereira,São Paulo,SP,Sudeste
+C00058,Débora Santos,Campinas,SP,Sudeste
+C00059,Júlia Santos,Santos,SP,Sudeste
+C00060,Rafaela Pereira,Santos,SP,Sudeste
+C00061,Pedro Alves,Goiânia,GO,Centro-Oeste
+C00062,Thiago Vieira,Dourados,MS,Centro-Oeste
+C00063,Gustavo Lopes,Niterói,RJ,Sudeste
+C00064,Diego Souza,Ribeirão Preto,SP,Sudeste
+C00065,Nicolas Carvalho,Uberlândia,MG,Sudeste
+C00066,Bruno Souza,Belém,PA,Norte
+C00067,Enzo Costa,Belo Horizonte,MG,Sudeste
+C00068,Gabriela Alves,Petrópolis,RJ,Sudeste
+C00069,Eduarda Carvalho,Curitiba,PR,Sul
+C00070,Olívia Pereira,Rio de Janeiro,RJ,Sudeste
+C00071,Gustavo Fernandes,Curitiba,PR,Sul
+C00072,Beatriz Fernandes,São Paulo,SP,Sudeste
+C00073,Thiago Pereira,Campinas,SP,Sudeste
+C00074,Pedro Lopes,Vitória,ES,Sudeste
+C00075,Júlia Santos,Belo Horizonte,MG,Sudeste
+C00076,Ana Martins,Uberlândia,MG,Sudeste
+C00077,João Carvalho,Maringá,PR,Sul
+C00078,Gustavo Fernandes,Ananindeua,PA,Norte
+C00079,Gabriela Gomes,Campinas,SP,Sudeste
+C00080,Tatiane Fernandes,São Paulo,SP,Sudeste
+C00081,Karina Santos,Manaus,AM,Norte
+C00082,Pedro Soares,Salvador,BA,Nordeste
+C00083,Rafaela Oliveira,Campinas,SP,Sudeste
+C00084,Vinícius Oliveira,Campinas,SP,Sudeste
+C00085,Diego Vieira,Belo Horizonte,MG,Sudeste
+C00086,Vinícius Santos,Salvador,BA,Nordeste
+C00087,Caio Vieira,Vila Velha,ES,Sudeste
+C00088,Gabriela Costa,Rio de Janeiro,RJ,Sudeste
+C00089,Mariana Rodrigues,Petrópolis,RJ,Sudeste
+C00090,João Almeida,Mossoró,RN,Nordeste
+C00091,Thiago Oliveira,Manaus,AM,Norte
+C00092,Vinícius Vieira,Curitiba,PR,Sul
+C00093,Samuel Alves,Santos,SP,Sudeste
+C00094,Thiago Ribeiro,São Paulo,SP,Sudeste
+C00095,Lucas Gomes,Rio de Janeiro,RJ,Sudeste
+C00096,Helena Fernandes,Maringá,PR,Sul
+C00097,Vinícius Soares,Rio de Janeiro,RJ,Sudeste
+C00098,Helena Fernandes,Anápolis,GO,Centro-Oeste
+C00099,Diego Rodrigues,Imperatriz,MA,Nordeste
+C00100,Júlia Souza,Campinas,SP,Sudeste
+C00101,João Barbosa,Rio de Janeiro,RJ,Sudeste
+C00102,Karina Alves,Rondonópolis,MT,Centro-Oeste
+C00103,Pedro Lima,Porto Alegre,RS,Sul
+C00104,Beatriz Carvalho,Santos,SP,Sudeste
+C00105,Ana Costa,Campinas,SP,Sudeste
+C00106,Isabela Ferreira,Juazeiro do Norte,CE,Nordeste
+C00107,Débora Carvalho,Salvador,BA,Nordeste
+C00108,Carla Rodrigues,São Paulo,SP,Sudeste
+C00109,Tatiane Fernandes,Belo Horizonte,MG,Sudeste
+C00110,Eduarda Santos,Londrina,PR,Sul
+C00111,Júlia Santos,Uberlândia,MG,Sudeste
+C00112,Caio Pereira,São Paulo,SP,Sudeste
+C00113,Fernanda Fernandes,Uberlândia,MG,Sudeste
+C00114,Enzo Rodrigues,Fortaleza,CE,Nordeste
+C00115,Gustavo Ferreira,Ribeirão Preto,SP,Sudeste
+C00116,Felipe Costa,Ribeirão Preto,SP,Sudeste
+C00117,Igor Pereira,Anápolis,GO,Centro-Oeste
+C00118,Gustavo Souza,Ribeirão Preto,SP,Sudeste
+C00119,Igor Lopes,Campinas,SP,Sudeste
+C00120,Helena Almeida,Santos,SP,Sudeste
+C00121,Helena Pereira,Rio de Janeiro,RJ,Sudeste
+C00122,Caio Alves,Ribeirão Preto,SP,Sudeste
+C00123,Isabela Oliveira,Uberlândia,MG,Sudeste
+C00124,Beatriz Soares,Uberlândia,MG,Sudeste
+C00125,Helena Fernandes,Anápolis,GO,Centro-Oeste
+C00126,Diego Lima,Campinas,SP,Sudeste
+C00127,Isabela Santos,Salvador,BA,Nordeste
+C00128,Nicolas Ribeiro,Caruaru,PE,Nordeste
+C00129,Nicolas Barbosa,Petrópolis,RJ,Sudeste
+C00130,Mariana Vieira,Campinas,SP,Sudeste
+C00131,Bruno Carvalho,Rio de Janeiro,RJ,Sudeste
+C00132,Thiago Fernandes,Blumenau,SC,Sul
+C00133,Enzo Alves,Dourados,MS,Centro-Oeste
+C00134,Carla Costa,Maringá,PR,Sul
+C00135,Caio Souza,Petrópolis,RJ,Sudeste
+C00136,Rafaela Gomes,Petrópolis,RJ,Sudeste
+C00137,Karina Martins,Vila Velha,ES,Sudeste
+C00138,Eduarda Alves,Feira de Santana,BA,Nordeste
+C00139,Mariana Ferreira,Anápolis,GO,Centro-Oeste
+C00140,Samuel Silva,Uberlândia,MG,Sudeste
+C00141,Gabriela Carvalho,Petrópolis,RJ,Sudeste
+C00142,Beatriz Costa,Olinda,PE,Nordeste
+C00143,Olívia Alves,Maringá,PR,Sul
+C00144,Gustavo Ferreira,Pelotas,RS,Sul
+C00145,João Soares,Santos,SP,Sudeste
+C00146,Helena Pereira,Santos,SP,Sudeste
+C00147,Gustavo Alves,Campinas,SP,Sudeste
+C00148,Bruno Pereira,Ribeirão Preto,SP,Sudeste
+C00149,Igor Oliveira,Olinda,PE,Nordeste
+C00150,Júlia Vieira,Vitória,ES,Sudeste
+C00151,Débora Martins,Rondonópolis,MT,Centro-Oeste
+C00152,Hugo Rodrigues,Juiz de Fora,MG,Sudeste
+C00153,Ana Souza,Brasília,DF,Centro-Oeste
+C00154,Felipe Soares,Ribeirão Preto,SP,Sudeste
+C00155,Samuel Pereira,São Paulo,SP,Sudeste
+C00156,Eduarda Almeida,Maringá,PR,Sul
+C00157,Samuel Barbosa,Joinville,SC,Sul
+C00158,Júlia Almeida,Manaus,AM,Norte
+C00159,Olívia Ferreira,Feira de Santana,BA,Nordeste
+C00160,Isabela Pereira,Maringá,PR,Sul
+C00161,Fernanda Soares,Niterói,RJ,Sudeste
+C00162,Hugo Lima,Juazeiro do Norte,CE,Nordeste
+C00163,Débora Gomes,Campinas,SP,Sudeste
+C00164,Karina Costa,Petrópolis,RJ,Sudeste
+C00165,Eduarda Rodrigues,Campinas,SP,Sudeste
+C00166,Débora Rodrigues,Juiz de Fora,MG,Sudeste
+C00167,Carla Carvalho,Ribeirão Preto,SP,Sudeste
+C00168,Samuel Almeida,Uberlândia,MG,Sudeste
+C00169,Gabriela Carvalho,Ribeirão Preto,SP,Sudeste
+C00170,Débora Silva,Feira de Santana,BA,Nordeste
+C00171,Ana Ribeiro,Caxias do Sul,RS,Sul
+C00172,Mariana Carvalho,Manaus,AM,Norte
+C00173,Hugo Lima,Caxias do Sul,RS,Sul
+C00174,Ana Martins,Caxias do Sul,RS,Sul
+C00175,Caio Martins,Goiânia,GO,Centro-Oeste
+C00176,Thiago Rodrigues,Maringá,PR,Sul
+C00177,Ana Martins,Blumenau,SC,Sul
+C00178,Caio Silva,Salvador,BA,Nordeste
+C00179,Nicolas Rodrigues,Mossoró,RN,Nordeste
+C00180,Bruno Lima,Ribeirão Preto,SP,Sudeste
+C00181,Gabriela Almeida,Niterói,RJ,Sudeste
+C00182,Fernanda Martins,Uberlândia,MG,Sudeste
+C00183,Helena Carvalho,Manaus,AM,Norte
+C00184,Pedro Silva,São Paulo,SP,Sudeste
+C00185,Hugo Oliveira,Juiz de Fora,MG,Sudeste
+C00186,Fernanda Silva,Campinas,SP,Sudeste
+C00187,Helena Silva,Campinas,SP,Sudeste
+C00188,Eduarda Lopes,Petrópolis,RJ,Sudeste
+C00189,Tatiane Alves,Ribeirão Preto,SP,Sudeste
+C00190,Isabela Ribeiro,Brasília,DF,Centro-Oeste
+C00191,Vinícius Souza,Recife,PE,Nordeste
+C00192,Diego Vieira,Rio de Janeiro,RJ,Sudeste
+C00193,Tatiane Martins,Niterói,RJ,Sudeste
+C00194,Gabriela Oliveira,Cuiabá,MT,Centro-Oeste
+C00195,Débora Gomes,São Paulo,SP,Sudeste
+C00196,Gustavo Santos,Feira de Santana,BA,Nordeste
+C00197,Nicolas Ribeiro,Florianópolis,SC,Sul
+C00198,Beatriz Costa,Porto Alegre,RS,Sul
+C00199,Helena Lopes,Vitória,ES,Sudeste
+C00200,Lucas Almeida,Maringá,PR,Sul
+C00201,Nicolas Ferreira,Santos,SP,Sudeste
+C00202,Gustavo Fernandes,Olinda,PE,Nordeste
+C00203,Nicolas Vieira,Londrina,PR,Sul
+C00204,Igor Pereira,Rio de Janeiro,RJ,Sudeste
+C00205,Júlia Almeida,Rio de Janeiro,RJ,Sudeste
+C00206,Olívia Vieira,Manaus,AM,Norte
+C00207,Ana Lopes,Uberlândia,MG,Sudeste
+C00208,Pedro Alves,Santos,SP,Sudeste
+C00209,Karina Lima,Petrópolis,RJ,Sudeste
+C00210,Júlia Lima,Brasília,DF,Centro-Oeste
+C00211,Gabriela Oliveira,Florianópolis,SC,Sul
+C00212,Nicolas Lopes,Campo Grande,MS,Centro-Oeste
+C00213,Pedro Lopes,Brasília,DF,Centro-Oeste
+C00214,Carla Gomes,Campinas,SP,Sudeste
+C00215,Débora Pereira,Uberlândia,MG,Sudeste
+C00216,Tatiane Ribeiro,Imperatriz,MA,Nordeste
+C00217,Rafaela Ribeiro,Feira de Santana,BA,Nordeste
+C00218,Samuel Costa,Manaus,AM,Norte
+C00219,Olívia Lima,Brasília,DF,Centro-Oeste
+C00220,Hugo Souza,Petrópolis,RJ,Sudeste
+C00221,Karina Souza,Campinas,SP,Sudeste
+C00222,Gabriela Lopes,Santos,SP,Sudeste
+C00223,Tatiane Soares,Dourados,MS,Centro-Oeste
+C00224,Helena Alves,Santos,SP,Sudeste
+C00225,Lucas Ferreira,Santos,SP,Sudeste
+C00226,Débora Fernandes,Campinas,SP,Sudeste
+C00227,Bruno Santos,Petrópolis,RJ,Sudeste
+C00228,Débora Rodrigues,Petrópolis,RJ,Sudeste
+C00229,Pedro Souza,Manaus,AM,Norte
+C00230,João Lopes,Feira de Santana,BA,Nordeste
+C00231,Karina Ferreira,Curitiba,PR,Sul
+C00232,Igor Lopes,Rio de Janeiro,RJ,Sudeste
+C00233,Mariana Lopes,São Paulo,SP,Sudeste
+C00234,Beatriz Santos,Salvador,BA,Nordeste
+C00235,Gustavo Vieira,Santos,SP,Sudeste
+C00236,Hugo Souza,Ribeirão Preto,SP,Sudeste
+C00237,Vinícius Barbosa,Recife,PE,Nordeste
+C00238,Mariana Almeida,Joinville,SC,Sul
+C00239,Igor Vieira,Niterói,RJ,Sudeste
+C00240,Tatiane Barbosa,Rio de Janeiro,RJ,Sudeste
+C00241,Enzo Souza,Recife,PE,Nordeste
+C00242,Gabriela Lima,Fortaleza,CE,Nordeste
+C00243,Hugo Ferreira,São Paulo,SP,Sudeste
+C00244,Ana Carvalho,Ribeirão Preto,SP,Sudeste
+C00245,Vinícius Lopes,Brasília,DF,Centro-Oeste
+C00246,Hugo Gomes,Santos,SP,Sudeste
+C00247,Igor Almeida,Brasília,DF,Centro-Oeste
+C00248,Hugo Lima,Goiânia,GO,Centro-Oeste
+C00249,Diego Fernandes,Curitiba,PR,Sul
+C00250,Eduarda Lima,Natal,RN,Nordeste
+C00251,Bruno Ferreira,Santos,SP,Sudeste
+C00252,Enzo Vieira,Olinda,PE,Nordeste
+C00253,Diego Almeida,Maringá,PR,Sul
+C00254,Débora Martins,Niterói,RJ,Sudeste
+C00255,Samuel Lopes,Caxias do Sul,RS,Sul
+C00256,Vinícius Santos,Ribeirão Preto,SP,Sudeste
+C00257,Karina Barbosa,Ananindeua,PA,Norte
+C00258,Carla Pereira,São Paulo,SP,Sudeste
+C00259,Caio Lima,Palmas,TO,Norte
+C00260,Fernanda Ferreira,Palmas,TO,Norte
+C00261,Beatriz Almeida,Joinville,SC,Sul
+C00262,Tatiane Carvalho,Ribeirão Preto,SP,Sudeste
+C00263,Pedro Ribeiro,Ribeirão Preto,SP,Sudeste
+C00264,Karina Souza,Belo Horizonte,MG,Sudeste
+C00265,Nicolas Lopes,Uberlândia,MG,Sudeste
+C00266,Mariana Fernandes,São Luís,MA,Nordeste
+C00267,Carla Costa,Londrina,PR,Sul
+C00268,Diego Martins,Petrópolis,RJ,Sudeste
+C00269,Caio Fernandes,Ribeirão Preto,SP,Sudeste
+C00270,Bruno Alves,Vila Velha,ES,Sudeste
+C00271,Fernanda Lopes,Juazeiro do Norte,CE,Nordeste
+C00272,Bruno Alves,Palmas,TO,Norte
+C00273,Eduarda Gomes,Feira de Santana,BA,Nordeste
+C00274,Pedro Souza,Brasília,DF,Centro-Oeste
+C00275,Vinícius Pereira,Fortaleza,CE,Nordeste
+C00276,Samuel Silva,Petrópolis,RJ,Sudeste
+C00277,Carla Pereira,Vitória,ES,Sudeste
+C00278,Diego Rodrigues,Londrina,PR,Sul
+C00279,João Soares,Rondonópolis,MT,Centro-Oeste
+C00280,Helena Lopes,Vila Velha,ES,Sudeste
+C00281,Olívia Fernandes,Rio de Janeiro,RJ,Sudeste
+C00282,Gabriela Barbosa,Juiz de Fora,MG,Sudeste
+C00283,Júlia Rodrigues,Manaus,AM,Norte
+C00284,Fernanda Carvalho,Niterói,RJ,Sudeste
+C00285,Isabela Silva,Caxias do Sul,RS,Sul
+C00286,João Vieira,Dourados,MS,Centro-Oeste
+C00287,Olívia Fernandes,Ribeirão Preto,SP,Sudeste
+C00288,Karina Fernandes,Juiz de Fora,MG,Sudeste
+C00289,Olívia Costa,Belo Horizonte,MG,Sudeste
+C00290,Hugo Vieira,Brasília,DF,Centro-Oeste
+C00291,Igor Carvalho,São Paulo,SP,Sudeste
+C00292,Enzo Lopes,Petrópolis,RJ,Sudeste
+C00293,Mariana Rodrigues,Uberlândia,MG,Sudeste
+C00294,Eduarda Soares,Santos,SP,Sudeste
+C00295,Igor Almeida,São Paulo,SP,Sudeste
+C00296,Thiago Almeida,Florianópolis,SC,Sul
+C00297,Eduarda Carvalho,Campo Grande,MS,Centro-Oeste
+C00298,Pedro Lima,Santos,SP,Sudeste
+C00299,Débora Martins,Fortaleza,CE,Nordeste
+C00300,Igor Fernandes,Uberlândia,MG,Sudeste
+C00301,Beatriz Lopes,Petrópolis,RJ,Sudeste
+C00302,Vinícius Oliveira,Campinas,SP,Sudeste
+C00303,Caio Gomes,Fortaleza,CE,Nordeste
+C00304,Carla Carvalho,Manaus,AM,Norte
+C00305,Beatriz Souza,Palmas,TO,Norte
+C00306,Débora Gomes,São Paulo,SP,Sudeste
+C00307,Karina Santos,Santos,SP,Sudeste
+C00308,Lucas Carvalho,Belo Horizonte,MG,Sudeste
+C00309,Rafaela Carvalho,Petrópolis,RJ,Sudeste
+C00310,Gustavo Ferreira,Goiânia,GO,Centro-Oeste
+C00311,Carla Barbosa,Ribeirão Preto,SP,Sudeste
+C00312,Caio Pereira,Juazeiro do Norte,CE,Nordeste
+C00313,Eduarda Pereira,Feira de Santana,BA,Nordeste
+C00314,Isabela Almeida,Juazeiro do Norte,CE,Nordeste
+C00315,Ana Almeida,Anápolis,GO,Centro-Oeste
+C00316,Samuel Ferreira,Goiânia,GO,Centro-Oeste
+C00317,Lucas Vieira,Londrina,PR,Sul
+C00318,Nicolas Lima,Juazeiro do Norte,CE,Nordeste
+C00319,Gabriela Martins,Niterói,RJ,Sudeste
+C00320,Hugo Martins,Santos,SP,Sudeste
+C00321,João Gomes,Salvador,BA,Nordeste
+C00322,Mariana Lima,São Luís,MA,Nordeste
+C00323,Igor Santos,Feira de Santana,BA,Nordeste
+C00324,Fernanda Pereira,Petrópolis,RJ,Sudeste
+C00325,Hugo Alves,Juiz de Fora,MG,Sudeste
+C00326,Caio Rodrigues,Petrópolis,RJ,Sudeste
+C00327,Júlia Santos,Santos,SP,Sudeste
+C00328,Bruno Vieira,Londrina,PR,Sul
+C00329,Eduarda Oliveira,Ananindeua,PA,Norte
+C00330,Enzo Carvalho,Rio de Janeiro,RJ,Sudeste
+C00331,Eduarda Fernandes,Santos,SP,Sudeste
+C00332,Rafaela Lima,Florianópolis,SC,Sul
+C00333,Thiago Lopes,Niterói,RJ,Sudeste
+C00334,Igor Costa,Manaus,AM,Norte
+C00335,Carla Rodrigues,Curitiba,PR,Sul
+C00336,Enzo Martins,Anápolis,GO,Centro-Oeste
+C00337,Gustavo Martins,São Paulo,SP,Sudeste
+C00338,Samuel Souza,Niterói,RJ,Sudeste
+C00339,Caio Lima,Juiz de Fora,MG,Sudeste
+C00340,Helena Ribeiro,Belo Horizonte,MG,Sudeste
+C00341,Hugo Lopes,Goiânia,GO,Centro-Oeste
+C00342,Júlia Fernandes,Juazeiro do Norte,CE,Nordeste
+C00343,Hugo Oliveira,Caruaru,PE,Nordeste
+C00344,Thiago Gomes,Maringá,PR,Sul
+C00345,Diego Rodrigues,Vitória,ES,Sudeste
+C00346,João Lopes,São Paulo,SP,Sudeste
+C00347,Hugo Fernandes,Campinas,SP,Sudeste
+C00348,Olívia Ribeiro,Juiz de Fora,MG,Sudeste
+C00349,Débora Fernandes,Manaus,AM,Norte
+C00350,Enzo Rodrigues,Olinda,PE,Nordeste
+C00351,Diego Lopes,Campina Grande,PB,Nordeste
+C00352,Bruno Ribeiro,Rio de Janeiro,RJ,Sudeste
+C00353,Olívia Pereira,Londrina,PR,Sul
+C00354,Caio Ribeiro,Santos,SP,Sudeste
+C00355,Mariana Lima,Campinas,SP,Sudeste
+C00356,Igor Almeida,São Paulo,SP,Sudeste
+C00357,Gabriela Barbosa,São Luís,MA,Nordeste
+C00358,Gustavo Costa,Campinas,SP,Sudeste
+C00359,Gustavo Vieira,Campinas,SP,Sudeste
+C00360,Helena Fernandes,Campinas,SP,Sudeste
+C00361,Gabriela Pereira,Olinda,PE,Nordeste
+C00362,Gustavo Barbosa,São Paulo,SP,Sudeste
+C00363,Igor Rodrigues,Rio de Janeiro,RJ,Sudeste
+C00364,Isabela Ferreira,Florianópolis,SC,Sul
+C00365,Igor Silva,São Luís,MA,Nordeste
+C00366,Lucas Pereira,Santos,SP,Sudeste
+C00367,Felipe Lima,São Paulo,SP,Sudeste
+C00368,Enzo Carvalho,São Paulo,SP,Sudeste
+C00369,Carla Lopes,Manaus,AM,Norte
+C00370,Rafaela Vieira,Belo Horizonte,MG,Sudeste
+C00371,Rafaela Pereira,Maringá,PR,Sul
+C00372,Enzo Soares,Santos,SP,Sudeste
+C00373,Beatriz Silva,Curitiba,PR,Sul
+C00374,Igor Martins,Caxias do Sul,RS,Sul
+C00375,Diego Lopes,Anápolis,GO,Centro-Oeste
+C00376,Júlia Oliveira,Santos,SP,Sudeste
+C00377,Eduarda Oliveira,Recife,PE,Nordeste
+C00378,Vinícius Vieira,Petrópolis,RJ,Sudeste
+C00379,Karina Martins,Rondonópolis,MT,Centro-Oeste
+C00380,Rafaela Barbosa,Londrina,PR,Sul
+C00381,Gustavo Souza,Campinas,SP,Sudeste
+C00382,Olívia Pereira,Londrina,PR,Sul
+C00383,Helena Almeida,Uberlândia,MG,Sudeste
+C00384,Enzo Souza,Vila Velha,ES,Sudeste
+C00385,Karina Lima,Londrina,PR,Sul
+C00386,Caio Lopes,São Paulo,SP,Sudeste
+C00387,Helena Oliveira,São Paulo,SP,Sudeste
+C00388,Diego Ribeiro,Curitiba,PR,Sul
+C00389,Bruno Vieira,Feira de Santana,BA,Nordeste
+C00390,Diego Carvalho,Anápolis,GO,Centro-Oeste
+C00391,Fernanda Carvalho,Goiânia,GO,Centro-Oeste
+C00392,Vinícius Gomes,Niterói,RJ,Sudeste
+C00393,Tatiane Soares,Campinas,SP,Sudeste
+C00394,Caio Lopes,Campinas,SP,Sudeste
+C00395,Lucas Fernandes,Santos,SP,Sudeste
+C00396,Fernanda Lima,Campinas,SP,Sudeste
+C00397,Igor Fernandes,Maringá,PR,Sul
+C00398,Caio Fernandes,Recife,PE,Nordeste
+C00399,Thiago Lima,Recife,PE,Nordeste
+C00400,Isabela Gomes,Santos,SP,Sudeste
+C00401,Ana Ferreira,Belo Horizonte,MG,Sudeste
+C00402,Caio Martins,Salvador,BA,Nordeste
+C00403,Enzo Silva,São Paulo,SP,Sudeste
+C00404,Rafaela Alves,Manaus,AM,Norte
+C00405,Olívia Costa,Vitória,ES,Sudeste
+C00406,João Costa,Juiz de Fora,MG,Sudeste
+C00407,Carla Santos,Recife,PE,Nordeste
+C00408,Fernanda Barbosa,São Paulo,SP,Sudeste
+C00409,Carla Lima,Anápolis,GO,Centro-Oeste
+C00410,Nicolas Lopes,Imperatriz,MA,Nordeste
+C00411,Isabela Alves,Vitória,ES,Sudeste
+C00412,Nicolas Souza,Uberlândia,MG,Sudeste
+C00413,Caio Vieira,Anápolis,GO,Centro-Oeste
+C00414,Caio Gomes,Florianópolis,SC,Sul
+C00415,Mariana Barbosa,São Paulo,SP,Sudeste
+C00416,Gabriela Gomes,Campinas,SP,Sudeste
+C00417,Fernanda Lima,Santos,SP,Sudeste
+C00418,Diego Silva,Niterói,RJ,Sudeste
+C00419,Nicolas Ferreira,Manaus,AM,Norte
+C00420,Samuel Pereira,Juiz de Fora,MG,Sudeste
+C00421,Helena Ribeiro,Salvador,BA,Nordeste
+C00422,Igor Santos,Uberlândia,MG,Sudeste
+C00423,Olívia Oliveira,Santos,SP,Sudeste
+C00424,Nicolas Vieira,Feira de Santana,BA,Nordeste
+C00425,Beatriz Carvalho,Brasília,DF,Centro-Oeste
+C00426,Mariana Silva,Santos,SP,Sudeste
+C00427,Gustavo Barbosa,Ribeirão Preto,SP,Sudeste
+C00428,Thiago Ribeiro,Brasília,DF,Centro-Oeste
+C00429,Igor Souza,Curitiba,PR,Sul
+C00430,Tatiane Martins,Maringá,PR,Sul
+C00431,Mariana Gomes,Santos,SP,Sudeste
+C00432,Karina Ferreira,São Paulo,SP,Sudeste
+C00433,Beatriz Souza,Pelotas,RS,Sul
+C00434,Gabriela Ribeiro,Caxias do Sul,RS,Sul
+C00435,Helena Rodrigues,Belém,PA,Norte
+C00436,Eduarda Lima,Campinas,SP,Sudeste
+C00437,Vinícius Rodrigues,São Paulo,SP,Sudeste
+C00438,Fernanda Lopes,Ribeirão Preto,SP,Sudeste
+C00439,Tatiane Vieira,Manaus,AM,Norte
+C00440,Thiago Vieira,Anápolis,GO,Centro-Oeste
+C00441,Karina Rodrigues,Juazeiro do Norte,CE,Nordeste
+C00442,Pedro Almeida,Santos,SP,Sudeste
+C00443,Tatiane Santos,Niterói,RJ,Sudeste
+C00444,Carla Gomes,Caxias do Sul,RS,Sul
+C00445,Bruno Santos,Londrina,PR,Sul
+C00446,Carla Oliveira,Petrópolis,RJ,Sudeste
+C00447,Rafaela Martins,Olinda,PE,Nordeste
+C00448,Samuel Santos,Feira de Santana,BA,Nordeste
+C00449,Beatriz Alves,Feira de Santana,BA,Nordeste
+C00450,Pedro Soares,Recife,PE,Nordeste
+C00451,Olívia Souza,Santos,SP,Sudeste
+C00452,Carla Soares,Cuiabá,MT,Centro-Oeste
+C00453,Hugo Almeida,Ribeirão Preto,SP,Sudeste
+C00454,Rafaela Barbosa,Florianópolis,SC,Sul
+C00455,Lucas Gomes,Uberlândia,MG,Sudeste
+C00456,Fernanda Costa,Vitória,ES,Sudeste
+C00457,Beatriz Costa,Fortaleza,CE,Nordeste
+C00458,Diego Fernandes,Juiz de Fora,MG,Sudeste
+C00459,João Lima,Juiz de Fora,MG,Sudeste
+C00460,Thiago Barbosa,São Luís,MA,Nordeste
+C00461,Carla Vieira,Juiz de Fora,MG,Sudeste
+C00462,Thiago Ribeiro,Santos,SP,Sudeste
+C00463,Débora Martins,João Pessoa,PB,Nordeste
+C00464,Débora Oliveira,Olinda,PE,Nordeste
+C00465,Mariana Costa,Salvador,BA,Nordeste
+C00466,Débora Soares,Goiânia,GO,Centro-Oeste
+C00467,Caio Carvalho,Mossoró,RN,Nordeste
+C00468,Lucas Gomes,Campinas,SP,Sudeste
+C00469,Karina Lopes,Campinas,SP,Sudeste
+C00470,Eduarda Rodrigues,São Paulo,SP,Sudeste
+C00471,Igor Souza,Petrópolis,RJ,Sudeste
+C00472,Helena Soares,Florianópolis,SC,Sul
+C00473,Karina Barbosa,São Luís,MA,Nordeste
+C00474,Mariana Rodrigues,Recife,PE,Nordeste
+C00475,Helena Barbosa,Campinas,SP,Sudeste
+C00476,Olívia Santos,Dourados,MS,Centro-Oeste
+C00477,Caio Pereira,Uberlândia,MG,Sudeste
+C00478,João Almeida,Recife,PE,Nordeste
+C00479,Hugo Gomes,Joinville,SC,Sul
+C00480,Lucas Vieira,Ribeirão Preto,SP,Sudeste
+C00481,Fernanda Gomes,Londrina,PR,Sul
+C00482,Rafaela Carvalho,Porto Alegre,RS,Sul
+C00483,Gustavo Barbosa,Campinas,SP,Sudeste
+C00484,Bruno Lopes,Niterói,RJ,Sudeste
+C00485,Thiago Souza,Salvador,BA,Nordeste
+C00486,Carla Ferreira,Niterói,RJ,Sudeste
+C00487,Júlia Soares,Curitiba,PR,Sul
+C00488,Carla Pereira,Londrina,PR,Sul
+C00489,Thiago Silva,Uberlândia,MG,Sudeste
+C00490,Mariana Soares,Santos,SP,Sudeste
+C00491,Mariana Oliveira,Niterói,RJ,Sudeste
+C00492,Ana Costa,São Paulo,SP,Sudeste
+C00493,Beatriz Costa,Cuiabá,MT,Centro-Oeste
+C00494,Bruno Gomes,Ribeirão Preto,SP,Sudeste
+C00495,Helena Rodrigues,Brasília,DF,Centro-Oeste
+C00496,Vinícius Silva,Curitiba,PR,Sul
+C00497,Isabela Alves,Campinas,SP,Sudeste
+C00498,Enzo Barbosa,Feira de Santana,BA,Nordeste
+C00499,Fernanda Gomes,Campinas,SP,Sudeste
+C00500,Diego Santos,Rio de Janeiro,RJ,Sudeste
+C00501,Beatriz Barbosa,Vila Velha,ES,Sudeste
+C00502,Diego Lopes,São Paulo,SP,Sudeste
+C00503,Rafaela Vieira,Fortaleza,CE,Nordeste
+C00504,Eduarda Gomes,Rondonópolis,MT,Centro-Oeste
+C00505,Vinícius Ribeiro,Campinas,SP,Sudeste
+C00506,Nicolas Ferreira,Salvador,BA,Nordeste
+C00507,Lucas Oliveira,Blumenau,SC,Sul
+C00508,Rafaela Soares,Blumenau,SC,Sul
+C00509,Mariana Lopes,São Paulo,SP,Sudeste
+C00510,Mariana Ribeiro,Juazeiro do Norte,CE,Nordeste
+C00511,Ana Ribeiro,Manaus,AM,Norte
+C00512,Hugo Souza,Juiz de Fora,MG,Sudeste
+C00513,Fernanda Costa,Belém,PA,Norte
+C00514,Lucas Fernandes,Santos,SP,Sudeste
+C00515,Felipe Almeida,Mossoró,RN,Nordeste
+C00516,Felipe Rodrigues,Fortaleza,CE,Nordeste
+C00517,Fernanda Almeida,Cuiabá,MT,Centro-Oeste
+C00518,Gabriela Santos,Rio de Janeiro,RJ,Sudeste
+C00519,Karina Gomes,Ribeirão Preto,SP,Sudeste
+C00520,Pedro Lima,Florianópolis,SC,Sul
+C00521,Beatriz Alves,Manaus,AM,Norte
+C00522,Igor Santos,Juiz de Fora,MG,Sudeste
+C00523,Isabela Souza,Uberlândia,MG,Sudeste
+C00524,Júlia Martins,Maringá,PR,Sul
+C00525,Júlia Martins,Londrina,PR,Sul
+C00526,Pedro Lopes,Santos,SP,Sudeste
+C00527,Isabela Oliveira,Blumenau,SC,Sul
+C00528,Carla Carvalho,Maringá,PR,Sul
+C00529,Samuel Gomes,Santos,SP,Sudeste
+C00530,Carla Costa,Santos,SP,Sudeste
+C00531,Olívia Barbosa,Petrópolis,RJ,Sudeste
+C00532,Felipe Almeida,Londrina,PR,Sul
+C00533,Bruno Ribeiro,Maringá,PR,Sul
+C00534,Isabela Santos,Curitiba,PR,Sul
+C00535,Beatriz Martins,Anápolis,GO,Centro-Oeste
+C00536,Gustavo Ferreira,Porto Alegre,RS,Sul
+C00537,Igor Barbosa,Ribeirão Preto,SP,Sudeste
+C00538,Eduarda Oliveira,Campinas,SP,Sudeste
+C00539,Lucas Ribeiro,Mossoró,RN,Nordeste
+C00540,Bruno Barbosa,Salvador,BA,Nordeste
+C00541,Olívia Ribeiro,Anápolis,GO,Centro-Oeste
+C00542,Fernanda Oliveira,Maringá,PR,Sul
+C00543,Rafaela Ribeiro,Ribeirão Preto,SP,Sudeste
+C00544,Beatriz Lima,Rio de Janeiro,RJ,Sudeste
+C00545,Ana Ferreira,Ribeirão Preto,SP,Sudeste
+C00546,Mariana Fernandes,Florianópolis,SC,Sul
+C00547,Fernanda Lima,Petrópolis,RJ,Sudeste
+C00548,Gabriela Barbosa,Londrina,PR,Sul
+C00549,Thiago Lopes,Brasília,DF,Centro-Oeste
+C00550,Eduarda Oliveira,Ribeirão Preto,SP,Sudeste
+C00551,Júlia Almeida,São Paulo,SP,Sudeste
+C00552,Igor Costa,Anápolis,GO,Centro-Oeste
+C00553,Carla Fernandes,Brasília,DF,Centro-Oeste
+C00554,Igor Ferreira,Petrópolis,RJ,Sudeste
+C00555,Thiago Ferreira,Brasília,DF,Centro-Oeste
+C00556,Hugo Souza,Porto Alegre,RS,Sul
+C00557,Hugo Lopes,São Paulo,SP,Sudeste
+C00558,Samuel Vieira,Uberlândia,MG,Sudeste
+C00559,Gustavo Fernandes,Curitiba,PR,Sul
+C00560,Júlia Oliveira,Recife,PE,Nordeste
+C00561,Mariana Lopes,Petrópolis,RJ,Sudeste
+C00562,Fernanda Carvalho,Vitória,ES,Sudeste
+C00563,Karina Oliveira,Ribeirão Preto,SP,Sudeste
+C00564,Caio Soares,Londrina,PR,Sul
+C00565,Júlia Fernandes,Campinas,SP,Sudeste
+C00566,Nicolas Soares,São Paulo,SP,Sudeste
+C00567,Rafaela Rodrigues,Santos,SP,Sudeste
+C00568,Felipe Costa,Campinas,SP,Sudeste
+C00569,Rafaela Gomes,Belo Horizonte,MG,Sudeste
+C00570,Gabriela Fernandes,Niterói,RJ,Sudeste
+C00571,Beatriz Gomes,São Paulo,SP,Sudeste
+C00572,Beatriz Ferreira,Pelotas,RS,Sul
+C00573,Eduarda Ferreira,Feira de Santana,BA,Nordeste
+C00574,Bruno Silva,Salvador,BA,Nordeste
+C00575,Beatriz Vieira,Santos,SP,Sudeste
+C00576,Gabriela Vieira,Campina Grande,PB,Nordeste
+C00577,Beatriz Silva,Juazeiro do Norte,CE,Nordeste
+C00578,Samuel Gomes,Juazeiro do Norte,CE,Nordeste
+C00579,Hugo Martins,Caxias do Sul,RS,Sul
+C00580,Carla Santos,Curitiba,PR,Sul
+C00581,Nicolas Lopes,Londrina,PR,Sul
+C00582,Karina Barbosa,Campinas,SP,Sudeste
+C00583,Igor Costa,Petrópolis,RJ,Sudeste
+C00584,Mariana Rodrigues,Uberlândia,MG,Sudeste
+C00585,Samuel Souza,Caxias do Sul,RS,Sul
+C00586,Olívia Souza,Niterói,RJ,Sudeste
+C00587,Hugo Rodrigues,Curitiba,PR,Sul
+C00588,João Martins,Ribeirão Preto,SP,Sudeste
+C00589,Igor Ferreira,Niterói,RJ,Sudeste
+C00590,Enzo Costa,Salvador,BA,Nordeste
+C00591,Felipe Lopes,Palmas,TO,Norte
+C00592,Júlia Gomes,Caxias do Sul,RS,Sul
+C00593,Carla Martins,Ribeirão Preto,SP,Sudeste
+C00594,Gabriela Vieira,Niterói,RJ,Sudeste
+C00595,Bruno Gomes,Ribeirão Preto,SP,Sudeste
+C00596,Júlia Lopes,Olinda,PE,Nordeste
+C00597,Ana Souza,Joinville,SC,Sul
+C00598,Júlia Lima,Santos,SP,Sudeste
+C00599,Mariana Ribeiro,Palmas,TO,Norte
+C00600,Bruno Vieira,Juiz de Fora,MG,Sudeste
+C00601,Lucas Fernandes,Santos,SP,Sudeste
+C00602,Mariana Soares,Ribeirão Preto,SP,Sudeste
+C00603,Samuel Lima,Palmas,TO,Norte
+C00604,Diego Martins,Santos,SP,Sudeste
+C00605,Samuel Ribeiro,Belo Horizonte,MG,Sudeste
+C00606,Vinícius Soares,Ribeirão Preto,SP,Sudeste
+C00607,Bruno Santos,Porto Alegre,RS,Sul
+C00608,Débora Costa,Ribeirão Preto,SP,Sudeste
+C00609,Olívia Rodrigues,Blumenau,SC,Sul
+C00610,Eduarda Costa,Pelotas,RS,Sul
+C00611,Felipe Martins,Petrópolis,RJ,Sudeste
+C00612,Helena Gomes,Ananindeua,PA,Norte
+C00613,Helena Soares,Pelotas,RS,Sul
+C00614,Débora Vieira,Caxias do Sul,RS,Sul
+C00615,Helena Silva,Caxias do Sul,RS,Sul
+C00616,Caio Souza,Uberlândia,MG,Sudeste
+C00617,João Silva,Feira de Santana,BA,Nordeste
+C00618,Beatriz Vieira,Petrópolis,RJ,Sudeste
+C00619,Enzo Santos,Ribeirão Preto,SP,Sudeste
+C00620,Rafaela Barbosa,Ribeirão Preto,SP,Sudeste
+C00621,Helena Pereira,São Paulo,SP,Sudeste
+C00622,Débora Souza,Salvador,BA,Nordeste
+C00623,Olívia Costa,Ribeirão Preto,SP,Sudeste
+C00624,Nicolas Alves,Ribeirão Preto,SP,Sudeste
+C00625,Fernanda Barbosa,Caxias do Sul,RS,Sul
+C00626,Enzo Santos,Belém,PA,Norte
+C00627,Gabriela Fernandes,Joinville,SC,Sul
+C00628,Pedro Soares,Imperatriz,MA,Nordeste
+C00629,Felipe Almeida,Petrópolis,RJ,Sudeste
+C00630,Samuel Ribeiro,Juiz de Fora,MG,Sudeste
+C00631,Caio Lima,Dourados,MS,Centro-Oeste
+C00632,Hugo Lima,Santos,SP,Sudeste
+C00633,João Gomes,Campinas,SP,Sudeste
+C00634,Débora Lopes,Brasília,DF,Centro-Oeste
+C00635,Lucas Fernandes,Pelotas,RS,Sul
+C00636,João Souza,Petrópolis,RJ,Sudeste
+C00637,Samuel Martins,Anápolis,GO,Centro-Oeste
+C00638,Fernanda Rodrigues,Uberlândia,MG,Sudeste
+C00639,João Oliveira,Santos,SP,Sudeste
+C00640,Beatriz Lima,Maringá,PR,Sul
+C00641,Gabriela Alves,Pelotas,RS,Sul
+C00642,Thiago Fernandes,Petrópolis,RJ,Sudeste
+C00643,Eduarda Souza,Petrópolis,RJ,Sudeste
+C00644,Tatiane Pereira,Belém,PA,Norte
+C00645,Caio Soares,Campinas,SP,Sudeste
+C00646,Hugo Santos,Fortaleza,CE,Nordeste
+C00647,Karina Lopes,Vitória,ES,Sudeste
+C00648,Fernanda Rodrigues,Goiânia,GO,Centro-Oeste
+C00649,Thiago Ferreira,Feira de Santana,BA,Nordeste
+C00650,Thiago Lopes,Campina Grande,PB,Nordeste
+C00651,Gabriela Gomes,Campina Grande,PB,Nordeste
+C00652,Beatriz Santos,Rio de Janeiro,RJ,Sudeste
+C00653,Tatiane Pereira,João Pessoa,PB,Nordeste
+C00654,Nicolas Ferreira,São Paulo,SP,Sudeste
+C00655,Gustavo Lopes,Belo Horizonte,MG,Sudeste
+C00656,Igor Gomes,Manaus,AM,Norte
+C00657,João Vieira,São Paulo,SP,Sudeste
+C00658,João Almeida,Juiz de Fora,MG,Sudeste
+C00659,Rafaela Lopes,Florianópolis,SC,Sul
+C00660,Olívia Lima,Porto Alegre,RS,Sul
+C00661,Karina Ferreira,Ribeirão Preto,SP,Sudeste
+C00662,Isabela Ferreira,Natal,RN,Nordeste
+C00663,Karina Gomes,Belém,PA,Norte
+C00664,Vinícius Martins,Ribeirão Preto,SP,Sudeste
+C00665,Karina Oliveira,Caxias do Sul,RS,Sul
+C00666,Diego Ferreira,Goiânia,GO,Centro-Oeste
+C00667,Karina Pereira,Porto Alegre,RS,Sul
+C00668,Mariana Pereira,Niterói,RJ,Sudeste
+C00669,Isabela Costa,Manaus,AM,Norte
+C00670,Enzo Vieira,Salvador,BA,Nordeste
+C00671,Beatriz Ribeiro,Petrópolis,RJ,Sudeste
+C00672,Bruno Souza,Niterói,RJ,Sudeste
+C00673,Felipe Martins,Petrópolis,RJ,Sudeste
+C00674,Thiago Gomes,Pelotas,RS,Sul
+C00675,Beatriz Gomes,Santos,SP,Sudeste
+C00676,Hugo Pereira,Recife,PE,Nordeste
+C00677,Eduarda Almeida,Pelotas,RS,Sul
+C00678,Lucas Carvalho,Caruaru,PE,Nordeste
+C00679,Thiago Lopes,Salvador,BA,Nordeste
+C00680,Hugo Barbosa,Palmas,TO,Norte
+C00681,Olívia Soares,Blumenau,SC,Sul
+C00682,Carla Vieira,Belo Horizonte,MG,Sudeste
+C00683,Helena Fernandes,Campinas,SP,Sudeste
+C00684,Samuel Rodrigues,Salvador,BA,Nordeste
+C00685,Igor Soares,Niterói,RJ,Sudeste
+C00686,Caio Alves,Ribeirão Preto,SP,Sudeste
+C00687,Júlia Soares,Ribeirão Preto,SP,Sudeste
+C00688,Olívia Rodrigues,Ribeirão Preto,SP,Sudeste
+C00689,Tatiane Santos,Maringá,PR,Sul
+C00690,Caio Gomes,Maringá,PR,Sul
+C00691,Mariana Lima,São Paulo,SP,Sudeste
+C00692,Gabriela Vieira,Manaus,AM,Norte
+C00693,Nicolas Ribeiro,São Paulo,SP,Sudeste
+C00694,Bruno Oliveira,Joinville,SC,Sul
+C00695,João Carvalho,Campinas,SP,Sudeste
+C00696,Fernanda Carvalho,Santos,SP,Sudeste
+C00697,Olívia Martins,Uberlândia,MG,Sudeste
+C00698,Caio Fernandes,Campinas,SP,Sudeste
+C00699,Igor Ribeiro,João Pessoa,PB,Nordeste
+C00700,Samuel Martins,Campinas,SP,Sudeste
+C00701,Hugo Silva,Belém,PA,Norte
+C00702,Olívia Fernandes,Niterói,RJ,Sudeste
+C00703,Mariana Pereira,Florianópolis,SC,Sul
+C00704,Lucas Rodrigues,Londrina,PR,Sul
+C00705,Thiago Souza,São Paulo,SP,Sudeste
+C00706,Nicolas Barbosa,São Luís,MA,Nordeste
+C00707,Gabriela Oliveira,Rio de Janeiro,RJ,Sudeste
+C00708,Bruno Almeida,Caruaru,PE,Nordeste
+C00709,Débora Santos,Goiânia,GO,Centro-Oeste
+C00710,Bruno Martins,Ananindeua,PA,Norte
+C00711,Samuel Alves,São Paulo,SP,Sudeste
+C00712,Rafaela Gomes,Campinas,SP,Sudeste
+C00713,Tatiane Costa,Ananindeua,PA,Norte
+C00714,João Rodrigues,Petrópolis,RJ,Sudeste
+C00715,Hugo Carvalho,Joinville,SC,Sul
+C00716,Bruno Fernandes,Petrópolis,RJ,Sudeste
+C00717,Thiago Ferreira,Ananindeua,PA,Norte
+C00718,Pedro Santos,Feira de Santana,BA,Nordeste
+C00719,Caio Martins,Mossoró,RN,Nordeste
+C00720,Nicolas Carvalho,Brasília,DF,Centro-Oeste
+C00721,Mariana Ferreira,Petrópolis,RJ,Sudeste
+C00722,Hugo Pereira,Caxias do Sul,RS,Sul
+C00723,Eduarda Almeida,Brasília,DF,Centro-Oeste
+C00724,Nicolas Carvalho,Salvador,BA,Nordeste
+C00725,Hugo Lima,Belo Horizonte,MG,Sudeste
+C00726,Beatriz Oliveira,Uberlândia,MG,Sudeste
+C00727,Carla Fernandes,Juiz de Fora,MG,Sudeste
+C00728,Bruno Lima,Ribeirão Preto,SP,Sudeste
+C00729,Vinícius Barbosa,Goiânia,GO,Centro-Oeste
+C00730,Gabriela Vieira,Campinas,SP,Sudeste
+C00731,Gabriela Costa,Caxias do Sul,RS,Sul
+C00732,Gabriela Alves,São Paulo,SP,Sudeste
+C00733,Fernanda Lopes,Manaus,AM,Norte
+C00734,Vinícius Alves,Brasília,DF,Centro-Oeste
+C00735,Samuel Costa,Niterói,RJ,Sudeste
+C00736,Olívia Fernandes,Juiz de Fora,MG,Sudeste
+C00737,João Lima,Uberlândia,MG,Sudeste
+C00738,Júlia Lopes,Caxias do Sul,RS,Sul
+C00739,Gustavo Lopes,Santos,SP,Sudeste
+C00740,Lucas Costa,Ribeirão Preto,SP,Sudeste
+C00741,Tatiane Pereira,Campinas,SP,Sudeste
+C00742,Isabela Fernandes,Ribeirão Preto,SP,Sudeste
+C00743,Eduarda Alves,Niterói,RJ,Sudeste
+C00744,Mariana Vieira,Campinas,SP,Sudeste
+C00745,Samuel Costa,Caxias do Sul,RS,Sul
+C00746,Helena Lopes,Palmas,TO,Norte
+C00747,Felipe Ribeiro,Curitiba,PR,Sul
+C00748,Enzo Fernandes,Ribeirão Preto,SP,Sudeste
+C00749,Thiago Fernandes,São Paulo,SP,Sudeste
+C00750,Bruno Oliveira,Blumenau,SC,Sul
+C00751,Fernanda Silva,Ribeirão Preto,SP,Sudeste
+C00752,Helena Pereira,São Paulo,SP,Sudeste
+C00753,Eduarda Silva,Brasília,DF,Centro-Oeste
+C00754,Olívia Ribeiro,Porto Alegre,RS,Sul
+C00755,Beatriz Barbosa,Juazeiro do Norte,CE,Nordeste
+C00756,Pedro Silva,São Luís,MA,Nordeste
+C00757,Samuel Carvalho,Florianópolis,SC,Sul
+C00758,Rafaela Lima,Santos,SP,Sudeste
+C00759,Rafaela Carvalho,Campinas,SP,Sudeste
+C00760,Thiago Souza,Campinas,SP,Sudeste
+C00761,Gabriela Barbosa,Petrópolis,RJ,Sudeste
+C00762,Helena Ribeiro,Niterói,RJ,Sudeste
+C00763,Carla Ribeiro,Uberlândia,MG,Sudeste
+C00764,Tatiane Pereira,Maringá,PR,Sul
+C00765,João Oliveira,São Paulo,SP,Sudeste
+C00766,Mariana Martins,Ribeirão Preto,SP,Sudeste
+C00767,Pedro Santos,Salvador,BA,Nordeste
+C00768,Felipe Oliveira,Brasília,DF,Centro-Oeste
+C00769,Beatriz Costa,Maringá,PR,Sul
+C00770,Júlia Soares,São Paulo,SP,Sudeste
+C00771,Gabriela Vieira,Ribeirão Preto,SP,Sudeste
+C00772,Bruno Oliveira,Petrópolis,RJ,Sudeste
+C00773,Júlia Fernandes,Petrópolis,RJ,Sudeste
+C00774,Bruno Ferreira,Imperatriz,MA,Nordeste
+C00775,Gabriela Vieira,Campinas,SP,Sudeste
+C00776,Helena Martins,Manaus,AM,Norte
+C00777,Felipe Vieira,Rio de Janeiro,RJ,Sudeste
+C00778,Helena Martins,Feira de Santana,BA,Nordeste
+C00779,Fernanda Rodrigues,Juiz de Fora,MG,Sudeste
+C00780,Carla Soares,Dourados,MS,Centro-Oeste
+C00781,Diego Carvalho,Campinas,SP,Sudeste
+C00782,Karina Barbosa,Ribeirão Preto,SP,Sudeste
+C00783,Ana Lima,Niterói,RJ,Sudeste
+C00784,Hugo Ribeiro,Pelotas,RS,Sul
+C00785,Nicolas Ferreira,Juiz de Fora,MG,Sudeste
+C00786,Caio Martins,Salvador,BA,Nordeste
+C00787,João Pereira,Fortaleza,CE,Nordeste
+C00788,Isabela Rodrigues,Ribeirão Preto,SP,Sudeste
+C00789,Gustavo Rodrigues,Rondonópolis,MT,Centro-Oeste
+C00790,Lucas Souza,Rio de Janeiro,RJ,Sudeste
+C00791,João Almeida,Santos,SP,Sudeste
+C00792,Isabela Souza,Palmas,TO,Norte
+C00793,Felipe Carvalho,Ribeirão Preto,SP,Sudeste
+C00794,Samuel Soares,Feira de Santana,BA,Nordeste
+C00795,Ana Oliveira,Santos,SP,Sudeste
+C00796,Carla Barbosa,Feira de Santana,BA,Nordeste
+C00797,Ana Gomes,Uberlândia,MG,Sudeste
+C00798,Fernanda Oliveira,Juiz de Fora,MG,Sudeste
+C00799,Júlia Pereira,Salvador,BA,Nordeste
+C00800,Mariana Ferreira,Goiânia,GO,Centro-Oeste
+C00801,João Lima,Niterói,RJ,Sudeste
+C00802,Carla Ferreira,Ribeirão Preto,SP,Sudeste
+C00803,Nicolas Gomes,Niterói,RJ,Sudeste
+C00804,Lucas Lima,Campinas,SP,Sudeste
+C00805,Beatriz Lopes,Campo Grande,MS,Centro-Oeste
+C00806,Diego Rodrigues,Londrina,PR,Sul
+C00807,Mariana Costa,Ribeirão Preto,SP,Sudeste
+C00808,Olívia Costa,Uberlândia,MG,Sudeste
+C00809,Vinícius Rodrigues,Campina Grande,PB,Nordeste
+C00810,Vinícius Alves,Niterói,RJ,Sudeste
+C00811,Felipe Martins,Niterói,RJ,Sudeste
+C00812,Enzo Lopes,Petrópolis,RJ,Sudeste
+C00813,Karina Martins,Niterói,RJ,Sudeste
+C00814,Lucas Souza,Juiz de Fora,MG,Sudeste
+C00815,Tatiane Fernandes,Campinas,SP,Sudeste
+C00816,Fernanda Fernandes,Goiânia,GO,Centro-Oeste
+C00817,Olívia Alves,Ananindeua,PA,Norte
+C00818,Helena Oliveira,Niterói,RJ,Sudeste
+C00819,Pedro Rodrigues,Anápolis,GO,Centro-Oeste
+C00820,Isabela Rodrigues,Petrópolis,RJ,Sudeste
+C00821,Gustavo Martins,Curitiba,PR,Sul
+C00822,Vinícius Lopes,Maringá,PR,Sul
+C00823,Samuel Soares,Juiz de Fora,MG,Sudeste
+C00824,Samuel Santos,Vila Velha,ES,Sudeste
+C00825,Júlia Fernandes,Brasília,DF,Centro-Oeste
+C00826,Fernanda Pereira,Santos,SP,Sudeste
+C00827,Beatriz Barbosa,São Paulo,SP,Sudeste
+C00828,Beatriz Martins,Feira de Santana,BA,Nordeste
+C00829,Diego Silva,Curitiba,PR,Sul
+C00830,Hugo Soares,Petrópolis,RJ,Sudeste
+C00831,Samuel Vieira,Blumenau,SC,Sul
+C00832,Hugo Almeida,Feira de Santana,BA,Nordeste
+C00833,Olívia Vieira,Juiz de Fora,MG,Sudeste
+C00834,Eduarda Ribeiro,Porto Alegre,RS,Sul
+C00835,Diego Gomes,Caxias do Sul,RS,Sul
+C00836,Diego Rodrigues,Santos,SP,Sudeste
+C00837,Karina Almeida,Rio de Janeiro,RJ,Sudeste
+C00838,Pedro Ribeiro,Joinville,SC,Sul
+C00839,Olívia Almeida,Santos,SP,Sudeste
+C00840,João Santos,São Paulo,SP,Sudeste
+C00841,Igor Costa,São Paulo,SP,Sudeste
+C00842,Gustavo Ferreira,Goiânia,GO,Centro-Oeste
+C00843,Felipe Fernandes,Florianópolis,SC,Sul
+C00844,Samuel Carvalho,Uberlândia,MG,Sudeste
+C00845,Gustavo Martins,Campinas,SP,Sudeste
+C00846,Beatriz Carvalho,Ribeirão Preto,SP,Sudeste
+C00847,Enzo Barbosa,Campinas,SP,Sudeste
+C00848,Tatiane Carvalho,Londrina,PR,Sul
+C00849,Débora Alves,Campinas,SP,Sudeste
+C00850,Fernanda Oliveira,Petrópolis,RJ,Sudeste
+C00851,Gustavo Fernandes,Campinas,SP,Sudeste
+C00852,Karina Alves,Uberlândia,MG,Sudeste
+C00853,Isabela Lopes,Santos,SP,Sudeste
+C00854,Mariana Barbosa,Olinda,PE,Nordeste
+C00855,Diego Ribeiro,Olinda,PE,Nordeste
+C00856,Vinícius Ferreira,Maringá,PR,Sul
+C00857,Gustavo Gomes,Brasília,DF,Centro-Oeste
+C00858,Eduarda Costa,Goiânia,GO,Centro-Oeste
+C00859,João Souza,Rio de Janeiro,RJ,Sudeste
+C00860,Débora Rodrigues,Juiz de Fora,MG,Sudeste
+C00861,Nicolas Barbosa,Belo Horizonte,MG,Sudeste
+C00862,Mariana Carvalho,Salvador,BA,Nordeste
+C00863,Beatriz Fernandes,Pelotas,RS,Sul
+C00864,Thiago Ferreira,Natal,RN,Nordeste
+C00865,João Rodrigues,Porto Alegre,RS,Sul
+C00866,Helena Almeida,Petrópolis,RJ,Sudeste
+C00867,Igor Ribeiro,São Paulo,SP,Sudeste
+C00868,Eduarda Alves,Caxias do Sul,RS,Sul
+C00869,Rafaela Lopes,Feira de Santana,BA,Nordeste
+C00870,Pedro Carvalho,Anápolis,GO,Centro-Oeste
+C00871,Felipe Oliveira,Pelotas,RS,Sul
+C00872,Gustavo Pereira,Santos,SP,Sudeste
+C00873,Isabela Pereira,Santos,SP,Sudeste
+C00874,Fernanda Almeida,Ribeirão Preto,SP,Sudeste
+C00875,Rafaela Souza,Salvador,BA,Nordeste
+C00876,Fernanda Fernandes,Niterói,RJ,Sudeste
+C00877,Helena Santos,Blumenau,SC,Sul
+C00878,Samuel Alves,Londrina,PR,Sul
+C00879,Enzo Pereira,Santos,SP,Sudeste
+C00880,Olívia Lima,Santos,SP,Sudeste
+C00881,Olívia Souza,Campinas,SP,Sudeste
+C00882,Gustavo Vieira,Santos,SP,Sudeste
+C00883,Vinícius Carvalho,Brasília,DF,Centro-Oeste
+C00884,Eduarda Alves,Recife,PE,Nordeste
+C00885,Tatiane Ribeiro,Santos,SP,Sudeste
+C00886,Samuel Ferreira,Olinda,PE,Nordeste
+C00887,João Gomes,Brasília,DF,Centro-Oeste
+C00888,Júlia Souza,Porto Alegre,RS,Sul
+C00889,Gustavo Carvalho,Manaus,AM,Norte
+C00890,Igor Rodrigues,Petrópolis,RJ,Sudeste
+C00891,Hugo Rodrigues,Santos,SP,Sudeste
+C00892,Fernanda Martins,Niterói,RJ,Sudeste
+C00893,Tatiane Lima,Ribeirão Preto,SP,Sudeste
+C00894,Olívia Oliveira,Juiz de Fora,MG,Sudeste
+C00895,Mariana Soares,Santos,SP,Sudeste
+C00896,Thiago Ribeiro,Brasília,DF,Centro-Oeste
+C00897,Karina Vieira,Porto Alegre,RS,Sul
+C00898,Carla Almeida,Ananindeua,PA,Norte
+C00899,Gustavo Fernandes,Ribeirão Preto,SP,Sudeste
+C00900,Nicolas Alves,Ribeirão Preto,SP,Sudeste
+C00901,Karina Gomes,Niterói,RJ,Sudeste
+C00902,Tatiane Rodrigues,Feira de Santana,BA,Nordeste
+C00903,Júlia Santos,Belo Horizonte,MG,Sudeste
+C00904,Beatriz Almeida,São Paulo,SP,Sudeste
+C00905,Thiago Ferreira,Ribeirão Preto,SP,Sudeste
+C00906,Ana Carvalho,Curitiba,PR,Sul
+C00907,Thiago Rodrigues,Brasília,DF,Centro-Oeste
+C00908,Igor Lima,São Paulo,SP,Sudeste
+C00909,Lucas Lima,João Pessoa,PB,Nordeste
+C00910,Caio Ferreira,Belo Horizonte,MG,Sudeste
+C00911,Beatriz Gomes,Juiz de Fora,MG,Sudeste
+C00912,Fernanda Pereira,Brasília,DF,Centro-Oeste
+C00913,Carla Souza,João Pessoa,PB,Nordeste
+C00914,Pedro Oliveira,Campinas,SP,Sudeste
+C00915,Hugo Soares,Caruaru,PE,Nordeste
+C00916,Ana Silva,Maringá,PR,Sul
+C00917,Helena Souza,Uberlândia,MG,Sudeste
+C00918,Eduarda Lopes,Brasília,DF,Centro-Oeste
+C00919,Mariana Oliveira,São Paulo,SP,Sudeste
+C00920,Karina Ribeiro,Santos,SP,Sudeste
+C00921,Mariana Rodrigues,Campinas,SP,Sudeste
+C00922,Rafaela Vieira,São Paulo,SP,Sudeste
+C00923,Beatriz Ferreira,Olinda,PE,Nordeste
+C00924,Enzo Alves,Juiz de Fora,MG,Sudeste
+C00925,Eduarda Carvalho,Manaus,AM,Norte
+C00926,Carla Souza,Campinas,SP,Sudeste
+C00927,Diego Vieira,Manaus,AM,Norte
+C00928,Nicolas Costa,Belo Horizonte,MG,Sudeste
+C00929,Isabela Oliveira,Rio de Janeiro,RJ,Sudeste
+C00930,Vinícius Barbosa,Feira de Santana,BA,Nordeste
+C00931,Ana Gomes,Brasília,DF,Centro-Oeste
+C00932,Vinícius Soares,Florianópolis,SC,Sul
+C00933,Mariana Gomes,Manaus,AM,Norte
+C00934,Pedro Martins,Rio de Janeiro,RJ,Sudeste
+C00935,Pedro Barbosa,Rio de Janeiro,RJ,Sudeste
+C00936,Júlia Silva,Joinville,SC,Sul
+C00937,Eduarda Martins,Petrópolis,RJ,Sudeste
+C00938,Lucas Fernandes,Vitória,ES,Sudeste
+C00939,Pedro Oliveira,Palmas,TO,Norte
+C00940,Carla Silva,Olinda,PE,Nordeste
+C00941,Bruno Santos,Ribeirão Preto,SP,Sudeste
+C00942,João Soares,Caxias do Sul,RS,Sul
+C00943,Débora Martins,Curitiba,PR,Sul
+C00944,Samuel Fernandes,Fortaleza,CE,Nordeste
+C00945,Carla Gomes,Rio de Janeiro,RJ,Sudeste
+C00946,Thiago Alves,Porto Alegre,RS,Sul
+C00947,Karina Martins,Blumenau,SC,Sul
+C00948,Fernanda Oliveira,Juazeiro do Norte,CE,Nordeste
+C00949,Nicolas Pereira,Brasília,DF,Centro-Oeste
+C00950,Carla Carvalho,Rio de Janeiro,RJ,Sudeste
+C00951,Vinícius Barbosa,Curitiba,PR,Sul
+C00952,Caio Ferreira,Rio de Janeiro,RJ,Sudeste
+C00953,Débora Rodrigues,São Paulo,SP,Sudeste
+C00954,Pedro Ribeiro,Santos,SP,Sudeste
+C00955,Lucas Rodrigues,Santos,SP,Sudeste
+C00956,Júlia Souza,Belém,PA,Norte
+C00957,Gustavo Carvalho,Uberlândia,MG,Sudeste
+C00958,Carla Lima,Blumenau,SC,Sul
+C00959,Beatriz Oliveira,Feira de Santana,BA,Nordeste
+C00960,Rafaela Ribeiro,Curitiba,PR,Sul
+C00961,Igor Vieira,Porto Alegre,RS,Sul
+C00962,Felipe Lima,Belo Horizonte,MG,Sudeste
+C00963,Caio Souza,Salvador,BA,Nordeste
+C00964,Rafaela Silva,Belém,PA,Norte
+C00965,Hugo Santos,Ribeirão Preto,SP,Sudeste
+C00966,Mariana Rodrigues,Belo Horizonte,MG,Sudeste
+C00967,Samuel Carvalho,Campinas,SP,Sudeste
+C00968,Hugo Carvalho,Petrópolis,RJ,Sudeste
+C00969,Isabela Oliveira,Petrópolis,RJ,Sudeste
+C00970,Diego Soares,Juiz de Fora,MG,Sudeste
+C00971,Felipe Pereira,São Paulo,SP,Sudeste
+C00972,Carla Almeida,Uberlândia,MG,Sudeste
+C00973,Karina Oliveira,Petrópolis,RJ,Sudeste
+C00974,Ana Ribeiro,Curitiba,PR,Sul
+C00975,Tatiane Gomes,Petrópolis,RJ,Sudeste
+C00976,Hugo Almeida,Juazeiro do Norte,CE,Nordeste
+C00977,Pedro Alves,Caruaru,PE,Nordeste
+C00978,Fernanda Pereira,Florianópolis,SC,Sul
+C00979,Thiago Carvalho,São Paulo,SP,Sudeste
+C00980,Samuel Ribeiro,São Paulo,SP,Sudeste
+C00981,Ana Martins,Juiz de Fora,MG,Sudeste
+C00982,João Souza,Belém,PA,Norte
+C00983,Hugo Carvalho,Joinville,SC,Sul
+C00984,Eduarda Lima,São Paulo,SP,Sudeste
+C00985,Thiago Pereira,Ribeirão Preto,SP,Sudeste
+C00986,Júlia Ribeiro,Brasília,DF,Centro-Oeste
+C00987,Carla Vieira,Manaus,AM,Norte
+C00988,Eduarda Martins,Porto Alegre,RS,Sul
+C00989,Tatiane Santos,Olinda,PE,Nordeste
+C00990,Eduarda Pereira,Imperatriz,MA,Nordeste
+C00991,Igor Costa,Niterói,RJ,Sudeste
+C00992,Helena Costa,Brasília,DF,Centro-Oeste
+C00993,Isabela Pereira,Curitiba,PR,Sul
+C00994,Eduarda Vieira,São Paulo,SP,Sudeste
+C00995,Diego Ferreira,Ribeirão Preto,SP,Sudeste
+C00996,Karina Carvalho,Curitiba,PR,Sul
+C00997,Lucas Alves,Joinville,SC,Sul
+C00998,Olívia Lima,Rio de Janeiro,RJ,Sudeste
+C00999,Felipe Gomes,São Paulo,SP,Sudeste
+C01000,Helena Costa,Campinas,SP,Sudeste
+C01001,Débora Pereira,Santos,SP,Sudeste
+C01002,Rafaela Santos,Juiz de Fora,MG,Sudeste
+C01003,Isabela Ferreira,Rio de Janeiro,RJ,Sudeste
+C01004,Igor Almeida,Juiz de Fora,MG,Sudeste
+C01005,Samuel Pereira,Manaus,AM,Norte
+C01006,Diego Rodrigues,Curitiba,PR,Sul
+C01007,Bruno Pereira,Campinas,SP,Sudeste
+C01008,Helena Martins,Santos,SP,Sudeste
+C01009,Beatriz Oliveira,Anápolis,GO,Centro-Oeste
+C01010,Ana Oliveira,Campinas,SP,Sudeste
+C01011,Olívia Rodrigues,Natal,RN,Nordeste
+C01012,Diego Santos,Uberlândia,MG,Sudeste
+C01013,Felipe Vieira,Ribeirão Preto,SP,Sudeste
+C01014,Mariana Lopes,Campo Grande,MS,Centro-Oeste
+C01015,Caio Carvalho,Belo Horizonte,MG,Sudeste
+C01016,Gabriela Ferreira,Uberlândia,MG,Sudeste
+C01017,Olívia Rodrigues,Rio de Janeiro,RJ,Sudeste
+C01018,Vinícius Barbosa,Recife,PE,Nordeste
+C01019,João Lopes,Mossoró,RN,Nordeste
+C01020,Pedro Santos,Salvador,BA,Nordeste
+C01021,Mariana Rodrigues,Niterói,RJ,Sudeste
+C01022,Beatriz Soares,Campinas,SP,Sudeste
+C01023,Gustavo Fernandes,Fortaleza,CE,Nordeste
+C01024,Gustavo Ribeiro,Uberlândia,MG,Sudeste
+C01025,Gustavo Lopes,Joinville,SC,Sul
+C01026,Rafaela Costa,Feira de Santana,BA,Nordeste
+C01027,Felipe Silva,Niterói,RJ,Sudeste
+C01028,Hugo Silva,Olinda,PE,Nordeste
+C01029,Gustavo Lopes,Santos,SP,Sudeste
+C01030,Hugo Ferreira,Salvador,BA,Nordeste
+C01031,Caio Pereira,Niterói,RJ,Sudeste
+C01032,Helena Santos,Florianópolis,SC,Sul
+C01033,Igor Martins,Feira de Santana,BA,Nordeste
+C01034,Felipe Pereira,Santos,SP,Sudeste
+C01035,Débora Ribeiro,Belém,PA,Norte
+C01036,Débora Ribeiro,Brasília,DF,Centro-Oeste
+C01037,Gabriela Lopes,Feira de Santana,BA,Nordeste
+C01038,Pedro Santos,São Paulo,SP,Sudeste
+C01039,Hugo Barbosa,Campinas,SP,Sudeste
+C01040,Rafaela Lopes,São Paulo,SP,Sudeste
+C01041,Thiago Barbosa,Belo Horizonte,MG,Sudeste
+C01042,Karina Ferreira,Santos,SP,Sudeste
+C01043,Ana Rodrigues,Campinas,SP,Sudeste
+C01044,Igor Soares,Santos,SP,Sudeste
+C01045,Lucas Martins,São Paulo,SP,Sudeste
+C01046,João Costa,Belo Horizonte,MG,Sudeste
+C01047,Enzo Carvalho,Ribeirão Preto,SP,Sudeste
+C01048,Karina Ferreira,Campina Grande,PB,Nordeste
+C01049,Caio Vieira,Campinas,SP,Sudeste
+C01050,João Gomes,Belo Horizonte,MG,Sudeste
+C01051,Enzo Silva,Ribeirão Preto,SP,Sudeste
+C01052,Bruno Ferreira,Feira de Santana,BA,Nordeste
+C01053,Hugo Vieira,Recife,PE,Nordeste
+C01054,Eduarda Costa,Pelotas,RS,Sul
+C01055,Hugo Ribeiro,Santos,SP,Sudeste
+C01056,Beatriz Oliveira,Santos,SP,Sudeste
+C01057,Ana Lima,Curitiba,PR,Sul
+C01058,Débora Oliveira,Niterói,RJ,Sudeste
+C01059,Gustavo Souza,Petrópolis,RJ,Sudeste
+C01060,Bruno Martins,Ribeirão Preto,SP,Sudeste
+C01061,Nicolas Ferreira,Ananindeua,PA,Norte
+C01062,Júlia Martins,Caxias do Sul,RS,Sul
+C01063,Mariana Souza,Joinville,SC,Sul
+C01064,Beatriz Pereira,Salvador,BA,Nordeste
+C01065,Carla Santos,Londrina,PR,Sul
+C01066,Karina Lima,São Paulo,SP,Sudeste
+C01067,Karina Ferreira,Ribeirão Preto,SP,Sudeste
+C01068,Enzo Oliveira,São Paulo,SP,Sudeste
+C01069,Vinícius Barbosa,Uberlândia,MG,Sudeste
+C01070,Ana Carvalho,Brasília,DF,Centro-Oeste
+C01071,Júlia Carvalho,Recife,PE,Nordeste
+C01072,Diego Costa,Campinas,SP,Sudeste
+C01073,Nicolas Fernandes,Santos,SP,Sudeste
+C01074,João Gomes,São Luís,MA,Nordeste
+C01075,Bruno Martins,Ribeirão Preto,SP,Sudeste
+C01076,Bruno Ribeiro,São Paulo,SP,Sudeste
+C01077,Carla Gomes,Maringá,PR,Sul
+C01078,Vinícius Lopes,Fortaleza,CE,Nordeste
+C01079,Ana Alves,Campinas,SP,Sudeste
+C01080,João Oliveira,Juazeiro do Norte,CE,Nordeste
+C01081,João Martins,Ribeirão Preto,SP,Sudeste
+C01082,Júlia Lima,Porto Alegre,RS,Sul
+C01083,Samuel Martins,Natal,RN,Nordeste
+C01084,Júlia Martins,Uberlândia,MG,Sudeste
+C01085,Olívia Santos,Santos,SP,Sudeste
+C01086,Olívia Lima,Curitiba,PR,Sul
+C01087,Tatiane Santos,Rio de Janeiro,RJ,Sudeste
+C01088,Débora Souza,Manaus,AM,Norte
+C01089,Lucas Fernandes,Anápolis,GO,Centro-Oeste
+C01090,Tatiane Pereira,Manaus,AM,Norte
+C01091,Helena Soares,Uberlândia,MG,Sudeste
+C01092,Caio Lopes,Blumenau,SC,Sul
+C01093,Pedro Gomes,Rio de Janeiro,RJ,Sudeste
+C01094,Júlia Santos,Juiz de Fora,MG,Sudeste
+C01095,Júlia Soares,Salvador,BA,Nordeste
+C01096,Fernanda Almeida,Campinas,SP,Sudeste
+C01097,Gabriela Alves,Campinas,SP,Sudeste
+C01098,Nicolas Oliveira,Ribeirão Preto,SP,Sudeste
+C01099,Helena Rodrigues,Santos,SP,Sudeste
+C01100,Thiago Oliveira,Rio de Janeiro,RJ,Sudeste
+C01101,Samuel Martins,Juiz de Fora,MG,Sudeste
+C01102,Igor Lima,Petrópolis,RJ,Sudeste
+C01103,Thiago Silva,Maringá,PR,Sul
+C01104,Tatiane Soares,Juazeiro do Norte,CE,Nordeste
+C01105,Nicolas Rodrigues,Campinas,SP,Sudeste
+C01106,Tatiane Vieira,Salvador,BA,Nordeste
+C01107,Tatiane Souza,Santos,SP,Sudeste
+C01108,Júlia Ribeiro,Joinville,SC,Sul
+C01109,Mariana Lopes,Petrópolis,RJ,Sudeste
+C01110,Pedro Santos,Recife,PE,Nordeste
+C01111,Mariana Rodrigues,Petrópolis,RJ,Sudeste
+C01112,Caio Martins,Recife,PE,Nordeste
+C01113,Júlia Costa,Juiz de Fora,MG,Sudeste
+C01114,Bruno Lopes,Niterói,RJ,Sudeste
+C01115,Ana Costa,Uberlândia,MG,Sudeste
+C01116,Isabela Lopes,Petrópolis,RJ,Sudeste
+C01117,Diego Pereira,Goiânia,GO,Centro-Oeste
+C01118,Enzo Almeida,Niterói,RJ,Sudeste
+C01119,Enzo Carvalho,Petrópolis,RJ,Sudeste
+C01120,Carla Alves,Mossoró,RN,Nordeste
+C01121,Thiago Carvalho,Ribeirão Preto,SP,Sudeste
+C01122,Rafaela Ribeiro,Palmas,TO,Norte
+C01123,Gustavo Ferreira,Porto Alegre,RS,Sul
+C01124,Débora Soares,Niterói,RJ,Sudeste
+C01125,Fernanda Soares,São Paulo,SP,Sudeste
+C01126,Gabriela Alves,São Paulo,SP,Sudeste
+C01127,Bruno Almeida,Rio de Janeiro,RJ,Sudeste
+C01128,Débora Alves,Uberlândia,MG,Sudeste
+C01129,Helena Almeida,Juiz de Fora,MG,Sudeste
+C01130,Beatriz Souza,Juiz de Fora,MG,Sudeste
+C01131,Hugo Ribeiro,Ribeirão Preto,SP,Sudeste
+C01132,Olívia Ferreira,Olinda,PE,Nordeste
+C01133,Samuel Ribeiro,Olinda,PE,Nordeste
+C01134,Helena Lima,São Paulo,SP,Sudeste
+C01135,Ana Martins,Rio de Janeiro,RJ,Sudeste
+C01136,Igor Vieira,Campinas,SP,Sudeste
+C01137,Beatriz Pereira,Campinas,SP,Sudeste
+C01138,Beatriz Carvalho,Petrópolis,RJ,Sudeste
+C01139,Igor Silva,Ribeirão Preto,SP,Sudeste
+C01140,Beatriz Ferreira,São Paulo,SP,Sudeste
+C01141,Isabela Barbosa,Santos,SP,Sudeste
+C01142,Débora Lima,Rondonópolis,MT,Centro-Oeste
+C01143,Igor Ribeiro,Uberlândia,MG,Sudeste
+C01144,Gabriela Almeida,Niterói,RJ,Sudeste
+C01145,Rafaela Barbosa,Anápolis,GO,Centro-Oeste
+C01146,Diego Silva,Feira de Santana,BA,Nordeste
+C01147,Beatriz Barbosa,Feira de Santana,BA,Nordeste
+C01148,Caio Souza,Niterói,RJ,Sudeste
+C01149,Karina Lima,Santos,SP,Sudeste
+C01150,Isabela Gomes,Rio de Janeiro,RJ,Sudeste
+C01151,Rafaela Pereira,São Paulo,SP,Sudeste
+C01152,Mariana Costa,Caruaru,PE,Nordeste
+C01153,Enzo Silva,Ribeirão Preto,SP,Sudeste
+C01154,Isabela Carvalho,Niterói,RJ,Sudeste
+C01155,Enzo Santos,Juiz de Fora,MG,Sudeste
+C01156,Tatiane Alves,Brasília,DF,Centro-Oeste
+C01157,Débora Pereira,Dourados,MS,Centro-Oeste
+C01158,Lucas Soares,Anápolis,GO,Centro-Oeste
+C01159,Helena Fernandes,Campinas,SP,Sudeste
+C01160,Diego Lopes,Rio de Janeiro,RJ,Sudeste
+C01161,Isabela Fernandes,Belém,PA,Norte
+C01162,Júlia Costa,Goiânia,GO,Centro-Oeste
+C01163,Lucas Pereira,Santos,SP,Sudeste
+C01164,Gustavo Costa,Vila Velha,ES,Sudeste
+C01165,Tatiane Gomes,Niterói,RJ,Sudeste
+C01166,Pedro Santos,São Paulo,SP,Sudeste
+C01167,Júlia Alves,Pelotas,RS,Sul
+C01168,Igor Martins,Santos,SP,Sudeste
+C01169,Bruno Rodrigues,Vitória,ES,Sudeste
+C01170,Karina Carvalho,Ribeirão Preto,SP,Sudeste
+C01171,Karina Ferreira,São Paulo,SP,Sudeste
+C01172,Karina Ferreira,Caxias do Sul,RS,Sul
+C01173,Bruno Silva,Juazeiro do Norte,CE,Nordeste
+C01174,Gabriela Ferreira,Petrópolis,RJ,Sudeste
+C01175,Felipe Lopes,Palmas,TO,Norte
+C01176,Vinícius Carvalho,Ribeirão Preto,SP,Sudeste
+C01177,Nicolas Lopes,Uberlândia,MG,Sudeste
+C01178,Bruno Fernandes,Campinas,SP,Sudeste
+C01179,Lucas Silva,Ananindeua,PA,Norte
+C01180,Helena Soares,Manaus,AM,Norte
+C01181,Caio Silva,Campinas,SP,Sudeste
+C01182,Débora Ribeiro,Santos,SP,Sudeste
+C01183,Diego Martins,Santos,SP,Sudeste
+C01184,Carla Santos,Santos,SP,Sudeste
+C01185,Olívia Soares,Petrópolis,RJ,Sudeste
+C01186,Karina Carvalho,Blumenau,SC,Sul
+C01187,Karina Lopes,Santos,SP,Sudeste
+C01188,Gabriela Ferreira,Manaus,AM,Norte
+C01189,Hugo Pereira,Campinas,SP,Sudeste
+C01190,Enzo Silva,Campinas,SP,Sudeste
+C01191,Lucas Santos,Ribeirão Preto,SP,Sudeste
+C01192,Isabela Fernandes,Fortaleza,CE,Nordeste
+C01193,Bruno Souza,Caruaru,PE,Nordeste
+C01194,Bruno Souza,Ribeirão Preto,SP,Sudeste
+C01195,Mariana Souza,Maringá,PR,Sul
+C01196,Pedro Rodrigues,Rio de Janeiro,RJ,Sudeste
+C01197,Caio Silva,Brasília,DF,Centro-Oeste
+C01198,Caio Souza,Vila Velha,ES,Sudeste
+C01199,Vinícius Rodrigues,Juazeiro do Norte,CE,Nordeste
+C01200,Rafaela Barbosa,São Paulo,SP,Sudeste
+C01201,Diego Souza,Niterói,RJ,Sudeste
+C01202,Vinícius Alves,Santos,SP,Sudeste
+C01203,Gabriela Ribeiro,Blumenau,SC,Sul
+C01204,João Ferreira,Vitória,ES,Sudeste
+C01205,Pedro Alves,Feira de Santana,BA,Nordeste
+C01206,Hugo Silva,Belo Horizonte,MG,Sudeste
+C01207,Carla Souza,Anápolis,GO,Centro-Oeste
+C01208,Carla Soares,São Paulo,SP,Sudeste
+C01209,Enzo Souza,Dourados,MS,Centro-Oeste
+C01210,Hugo Almeida,Mossoró,RN,Nordeste
+C01211,Olívia Santos,Rio de Janeiro,RJ,Sudeste
+C01212,Igor Santos,Santos,SP,Sudeste
+C01213,Gustavo Costa,Uberlândia,MG,Sudeste
+C01214,Diego Souza,Belém,PA,Norte
+C01215,Igor Rodrigues,Campinas,SP,Sudeste
+C01216,Lucas Almeida,Juiz de Fora,MG,Sudeste
+C01217,Júlia Oliveira,Niterói,RJ,Sudeste
+C01218,Felipe Souza,Uberlândia,MG,Sudeste
+C01219,Olívia Lima,Uberlândia,MG,Sudeste
+C01220,Igor Lopes,Brasília,DF,Centro-Oeste
+C01221,Júlia Ferreira,João Pessoa,PB,Nordeste
+C01222,Débora Santos,Campinas,SP,Sudeste
+C01223,Nicolas Vieira,Ribeirão Preto,SP,Sudeste
+C01224,Caio Almeida,Salvador,BA,Nordeste
+C01225,Mariana Ribeiro,Caruaru,PE,Nordeste
+C01226,Igor Rodrigues,Ribeirão Preto,SP,Sudeste
+C01227,Diego Carvalho,Caxias do Sul,RS,Sul
+C01228,Carla Lima,Santos,SP,Sudeste
+C01229,Débora Soares,Campinas,SP,Sudeste
+C01230,Igor Costa,Goiânia,GO,Centro-Oeste
+C01231,Caio Pereira,Londrina,PR,Sul
+C01232,Caio Martins,Belo Horizonte,MG,Sudeste
+C01233,Júlia Barbosa,Salvador,BA,Nordeste
+C01234,Beatriz Ferreira,Ribeirão Preto,SP,Sudeste
+C01235,Igor Ferreira,Porto Alegre,RS,Sul
+C01236,Pedro Costa,Manaus,AM,Norte
+C01237,Isabela Santos,Juiz de Fora,MG,Sudeste
+C01238,Samuel Martins,Ribeirão Preto,SP,Sudeste
+C01239,Carla Almeida,Niterói,RJ,Sudeste
+C01240,Olívia Oliveira,Feira de Santana,BA,Nordeste
+C01241,Karina Souza,Londrina,PR,Sul
+C01242,Beatriz Silva,Manaus,AM,Norte
+C01243,Nicolas Santos,Juiz de Fora,MG,Sudeste
+C01244,Ana Oliveira,Feira de Santana,BA,Nordeste
+C01245,Samuel Alves,Pelotas,RS,Sul
+C01246,Olívia Costa,Anápolis,GO,Centro-Oeste
+C01247,Helena Pereira,Ribeirão Preto,SP,Sudeste
+C01248,Samuel Barbosa,Juiz de Fora,MG,Sudeste
+C01249,Débora Ribeiro,Pelotas,RS,Sul
+C01250,Diego Souza,Maringá,PR,Sul
+C01251,Ana Costa,Santos,SP,Sudeste
+C01252,Gustavo Gomes,Juazeiro do Norte,CE,Nordeste
+C01253,Diego Santos,Brasília,DF,Centro-Oeste
+C01254,Eduarda Carvalho,Porto Alegre,RS,Sul
+C01255,Vinícius Alves,Rio de Janeiro,RJ,Sudeste
+C01256,Thiago Martins,Campinas,SP,Sudeste
+C01257,Helena Alves,Maringá,PR,Sul
+C01258,Diego Carvalho,Belo Horizonte,MG,Sudeste
+C01259,Helena Vieira,Fortaleza,CE,Nordeste
+C01260,Olívia Vieira,Maringá,PR,Sul
+C01261,Pedro Silva,São Paulo,SP,Sudeste
+C01262,Thiago Carvalho,Feira de Santana,BA,Nordeste
+C01263,Fernanda Ferreira,Pelotas,RS,Sul
+C01264,Felipe Rodrigues,Salvador,BA,Nordeste
+C01265,Caio Barbosa,Juiz de Fora,MG,Sudeste
+C01266,Rafaela Martins,Niterói,RJ,Sudeste
+C01267,Thiago Pereira,Olinda,PE,Nordeste
+C01268,Karina Gomes,Uberlândia,MG,Sudeste
+C01269,Eduarda Carvalho,Santos,SP,Sudeste
+C01270,Samuel Costa,Brasília,DF,Centro-Oeste
+C01271,Gabriela Barbosa,Santos,SP,Sudeste
+C01272,Lucas Rodrigues,Goiânia,GO,Centro-Oeste
+C01273,Samuel Costa,Pelotas,RS,Sul
+C01274,Fernanda Ribeiro,Ribeirão Preto,SP,Sudeste
+C01275,Tatiane Carvalho,Feira de Santana,BA,Nordeste
+C01276,Gustavo Silva,Maringá,PR,Sul
+C01277,Ana Martins,Campinas,SP,Sudeste
+C01278,Caio Santos,Campinas,SP,Sudeste
+C01279,Fernanda Ferreira,Niterói,RJ,Sudeste
+C01280,Isabela Rodrigues,Goiânia,GO,Centro-Oeste
+C01281,Gustavo Gomes,Brasília,DF,Centro-Oeste
+C01282,Samuel Santos,Manaus,AM,Norte
+C01283,Diego Barbosa,Maringá,PR,Sul
+C01284,Samuel Pereira,Ananindeua,PA,Norte
+C01285,Rafaela Gomes,Petrópolis,RJ,Sudeste
+C01286,Bruno Martins,Anápolis,GO,Centro-Oeste
+C01287,Gustavo Costa,Vitória,ES,Sudeste
+C01288,Enzo Lima,Campinas,SP,Sudeste
+C01289,Igor Almeida,Fortaleza,CE,Nordeste
+C01290,Débora Ribeiro,Fortaleza,CE,Nordeste
+C01291,Gabriela Gomes,Dourados,MS,Centro-Oeste
+C01292,Caio Oliveira,Campinas,SP,Sudeste
+C01293,Enzo Soares,São Paulo,SP,Sudeste
+C01294,Bruno Carvalho,Uberlândia,MG,Sudeste
+C01295,Isabela Rodrigues,Salvador,BA,Nordeste
+C01296,Igor Lima,Salvador,BA,Nordeste
+C01297,Olívia Rodrigues,Belo Horizonte,MG,Sudeste
+C01298,Thiago Costa,São Paulo,SP,Sudeste
+C01299,Vinícius Gomes,Juazeiro do Norte,CE,Nordeste
+C01300,Samuel Ribeiro,Salvador,BA,Nordeste
+C01301,Karina Soares,Brasília,DF,Centro-Oeste
+C01302,Rafaela Oliveira,Campinas,SP,Sudeste
+C01303,Samuel Fernandes,Vila Velha,ES,Sudeste
+C01304,Lucas Pereira,Campinas,SP,Sudeste
+C01305,Karina Costa,Imperatriz,MA,Nordeste
+C01306,Gabriela Barbosa,Petrópolis,RJ,Sudeste
+C01307,Samuel Silva,Porto Alegre,RS,Sul
+C01308,Lucas Almeida,Goiânia,GO,Centro-Oeste
+C01309,Vinícius Barbosa,Natal,RN,Nordeste
+C01310,Caio Costa,Ribeirão Preto,SP,Sudeste
+C01311,Mariana Lima,Santos,SP,Sudeste
+C01312,Thiago Soares,Santos,SP,Sudeste
+C01313,Gustavo Soares,Caxias do Sul,RS,Sul
+C01314,Bruno Gomes,Pelotas,RS,Sul
+C01315,Karina Soares,São Paulo,SP,Sudeste
+C01316,Felipe Fernandes,São Paulo,SP,Sudeste
+C01317,Carla Alves,Fortaleza,CE,Nordeste
+C01318,Nicolas Souza,Goiânia,GO,Centro-Oeste
+C01319,Helena Carvalho,Blumenau,SC,Sul
+C01320,Enzo Rodrigues,São Paulo,SP,Sudeste
+C01321,Débora Costa,Curitiba,PR,Sul
+C01322,Carla Santos,Campinas,SP,Sudeste
+C01323,Samuel Oliveira,Petrópolis,RJ,Sudeste
+C01324,Thiago Lima,Ribeirão Preto,SP,Sudeste
+C01325,Olívia Martins,Uberlândia,MG,Sudeste
+C01326,Ana Martins,Petrópolis,RJ,Sudeste
+C01327,Samuel Silva,São Paulo,SP,Sudeste
+C01328,Enzo Vieira,Manaus,AM,Norte
+C01329,Igor Oliveira,Brasília,DF,Centro-Oeste
+C01330,Diego Gomes,Pelotas,RS,Sul
+C01331,Vinícius Oliveira,Niterói,RJ,Sudeste
+C01332,Thiago Almeida,Palmas,TO,Norte
+C01333,Helena Silva,Uberlândia,MG,Sudeste
+C01334,Samuel Pereira,Campinas,SP,Sudeste
+C01335,Mariana Fernandes,Manaus,AM,Norte
+C01336,Eduarda Gomes,Juazeiro do Norte,CE,Nordeste
+C01337,Samuel Fernandes,Campinas,SP,Sudeste
+C01338,Bruno Silva,Ribeirão Preto,SP,Sudeste
+C01339,Samuel Oliveira,Joinville,SC,Sul
+C01340,Enzo Ribeiro,Campinas,SP,Sudeste
+C01341,Júlia Soares,Vitória,ES,Sudeste
+C01342,Felipe Pereira,Santos,SP,Sudeste
+C01343,Diego Ferreira,São Paulo,SP,Sudeste
+C01344,Thiago Fernandes,Manaus,AM,Norte
+C01345,Samuel Oliveira,Mossoró,RN,Nordeste
+C01346,Carla Lima,Goiânia,GO,Centro-Oeste
+C01347,Enzo Vieira,Ribeirão Preto,SP,Sudeste
+C01348,Lucas Rodrigues,Juiz de Fora,MG,Sudeste
+C01349,Hugo Souza,Campina Grande,PB,Nordeste
+C01350,Carla Alves,Juazeiro do Norte,CE,Nordeste
+C01351,Olívia Costa,Pelotas,RS,Sul
+C01352,João Vieira,São Luís,MA,Nordeste
+C01353,Tatiane Ribeiro,Feira de Santana,BA,Nordeste
+C01354,Felipe Silva,Londrina,PR,Sul
+C01355,Gustavo Pereira,Petrópolis,RJ,Sudeste
+C01356,Beatriz Carvalho,Ananindeua,PA,Norte
+C01357,Eduarda Costa,Uberlândia,MG,Sudeste
+C01358,Olívia Ribeiro,Londrina,PR,Sul
+C01359,Samuel Souza,Porto Alegre,RS,Sul
+C01360,Vinícius Oliveira,Mossoró,RN,Nordeste
+C01361,Júlia Fernandes,Campinas,SP,Sudeste
+C01362,Enzo Oliveira,Petrópolis,RJ,Sudeste
+C01363,Júlia Silva,São Paulo,SP,Sudeste
+C01364,Tatiane Martins,Salvador,BA,Nordeste
+C01365,Samuel Lima,Ribeirão Preto,SP,Sudeste
+C01366,Fernanda Rodrigues,Campina Grande,PB,Nordeste
+C01367,Hugo Vieira,Juiz de Fora,MG,Sudeste
+C01368,Eduarda Almeida,Petrópolis,RJ,Sudeste
+C01369,Carla Martins,Caxias do Sul,RS,Sul
+C01370,Ana Pereira,Pelotas,RS,Sul
+C01371,Felipe Soares,Goiânia,GO,Centro-Oeste
+C01372,Felipe Ferreira,Maringá,PR,Sul
+C01373,Caio Rodrigues,Feira de Santana,BA,Nordeste
+C01374,Bruno Pereira,Uberlândia,MG,Sudeste
+C01375,Carla Lima,Santos,SP,Sudeste
+C01376,Bruno Alves,Santos,SP,Sudeste
+C01377,Pedro Almeida,Belo Horizonte,MG,Sudeste
+C01378,Beatriz Costa,São Paulo,SP,Sudeste
+C01379,Rafaela Lima,Brasília,DF,Centro-Oeste
+C01380,Samuel Vieira,Salvador,BA,Nordeste
+C01381,Beatriz Martins,Uberlândia,MG,Sudeste
+C01382,Beatriz Oliveira,Caruaru,PE,Nordeste
+C01383,Mariana Pereira,Petrópolis,RJ,Sudeste
+C01384,Lucas Ribeiro,Uberlândia,MG,Sudeste
+C01385,Júlia Barbosa,Porto Alegre,RS,Sul
+C01386,Júlia Rodrigues,Caxias do Sul,RS,Sul
+C01387,Hugo Oliveira,Santos,SP,Sudeste
+C01388,Eduarda Ferreira,Campinas,SP,Sudeste
+C01389,Vinícius Souza,Juiz de Fora,MG,Sudeste
+C01390,Nicolas Costa,São Paulo,SP,Sudeste
+C01391,Caio Lopes,Caxias do Sul,RS,Sul
+C01392,Tatiane Ferreira,Ribeirão Preto,SP,Sudeste
+C01393,Hugo Santos,Campinas,SP,Sudeste
+C01394,Tatiane Ferreira,Salvador,BA,Nordeste
+C01395,Rafaela Santos,Fortaleza,CE,Nordeste
+C01396,Felipe Lima,Campinas,SP,Sudeste
+C01397,Mariana Barbosa,Blumenau,SC,Sul
+C01398,Ana Gomes,Fortaleza,CE,Nordeste
+C01399,Olívia Barbosa,Ribeirão Preto,SP,Sudeste
+C01400,Felipe Pereira,Caxias do Sul,RS,Sul
+C01401,Eduarda Vieira,Recife,PE,Nordeste
+C01402,Caio Soares,Juazeiro do Norte,CE,Nordeste
+C01403,Enzo Costa,Ribeirão Preto,SP,Sudeste
+C01404,Tatiane Oliveira,Recife,PE,Nordeste
+C01405,Mariana Rodrigues,Belo Horizonte,MG,Sudeste
+C01406,Gabriela Soares,Ribeirão Preto,SP,Sudeste
+C01407,Vinícius Souza,Campinas,SP,Sudeste
+C01408,Júlia Barbosa,Pelotas,RS,Sul
+C01409,Júlia Fernandes,São Paulo,SP,Sudeste
+C01410,Pedro Rodrigues,São Paulo,SP,Sudeste
+C01411,Beatriz Carvalho,Anápolis,GO,Centro-Oeste
+C01412,Igor Santos,Juiz de Fora,MG,Sudeste
+C01413,Nicolas Pereira,Joinville,SC,Sul
+C01414,Lucas Vieira,Juiz de Fora,MG,Sudeste
+C01415,Helena Vieira,Palmas,TO,Norte
+C01416,Eduarda Lima,Londrina,PR,Sul
+C01417,Thiago Oliveira,Santos,SP,Sudeste
+C01418,Júlia Fernandes,Olinda,PE,Nordeste
+C01419,Gabriela Silva,Petrópolis,RJ,Sudeste
+C01420,Gustavo Silva,Manaus,AM,Norte
+C01421,Ana Martins,Blumenau,SC,Sul
+C01422,Débora Costa,Ribeirão Preto,SP,Sudeste
+C01423,Diego Rodrigues,Uberlândia,MG,Sudeste
+C01424,Tatiane Lima,Campina Grande,PB,Nordeste
+C01425,Nicolas Vieira,Joinville,SC,Sul
+C01426,Isabela Martins,Recife,PE,Nordeste
+C01427,Samuel Fernandes,Vila Velha,ES,Sudeste
+C01428,Lucas Fernandes,Ribeirão Preto,SP,Sudeste
+C01429,João Vieira,Niterói,RJ,Sudeste
+C01430,Mariana Rodrigues,Brasília,DF,Centro-Oeste
+C01431,Hugo Almeida,Manaus,AM,Norte
+C01432,Gabriela Soares,Ribeirão Preto,SP,Sudeste
+C01433,Gustavo Fernandes,Juiz de Fora,MG,Sudeste
+C01434,Caio Santos,Brasília,DF,Centro-Oeste
+C01435,Beatriz Silva,Belo Horizonte,MG,Sudeste
+C01436,Pedro Barbosa,Ribeirão Preto,SP,Sudeste
+C01437,Carla Lima,Campinas,SP,Sudeste
+C01438,Carla Barbosa,Belo Horizonte,MG,Sudeste
+C01439,Mariana Martins,Dourados,MS,Centro-Oeste
+C01440,Vinícius Santos,Cuiabá,MT,Centro-Oeste
+C01441,Pedro Almeida,Fortaleza,CE,Nordeste
+C01442,Igor Soares,Santos,SP,Sudeste
+C01443,Bruno Barbosa,Campinas,SP,Sudeste
+C01444,Felipe Santos,Olinda,PE,Nordeste
+C01445,Beatriz Silva,Rio de Janeiro,RJ,Sudeste
+C01446,Isabela Martins,Santos,SP,Sudeste
+C01447,Mariana Martins,Goiânia,GO,Centro-Oeste
+C01448,Ana Oliveira,Florianópolis,SC,Sul
+C01449,João Fernandes,Feira de Santana,BA,Nordeste
+C01450,Helena Lima,Belo Horizonte,MG,Sudeste
+C01451,Gabriela Almeida,Olinda,PE,Nordeste
+C01452,Ana Lima,Salvador,BA,Nordeste
+C01453,Rafaela Souza,Vitória,ES,Sudeste
+C01454,João Costa,Porto Alegre,RS,Sul
+C01455,Isabela Fernandes,Pelotas,RS,Sul
+C01456,Débora Almeida,Niterói,RJ,Sudeste
+C01457,Pedro Pereira,Feira de Santana,BA,Nordeste
+C01458,Caio Almeida,Maringá,PR,Sul
+C01459,Pedro Souza,Santos,SP,Sudeste
+C01460,Mariana Pereira,Campinas,SP,Sudeste
+C01461,Nicolas Ribeiro,Petrópolis,RJ,Sudeste
+C01462,Ana Lima,Florianópolis,SC,Sul
+C01463,Carla Martins,Petrópolis,RJ,Sudeste
+C01464,Helena Costa,Manaus,AM,Norte
+C01465,Thiago Ferreira,Feira de Santana,BA,Nordeste
+C01466,Lucas Alves,Petrópolis,RJ,Sudeste
+C01467,Felipe Alves,Niterói,RJ,Sudeste
+C01468,Gabriela Pereira,Belém,PA,Norte
+C01469,Gabriela Pereira,Rio de Janeiro,RJ,Sudeste
+C01470,Helena Barbosa,Niterói,RJ,Sudeste
+C01471,Fernanda Souza,São Paulo,SP,Sudeste
+C01472,Caio Lopes,São Paulo,SP,Sudeste
+C01473,Igor Fernandes,Palmas,TO,Norte
+C01474,Lucas Barbosa,Caxias do Sul,RS,Sul
+C01475,Júlia Vieira,Caxias do Sul,RS,Sul
+C01476,Felipe Soares,Caxias do Sul,RS,Sul
+C01477,Hugo Vieira,Belo Horizonte,MG,Sudeste
+C01478,Rafaela Carvalho,Ribeirão Preto,SP,Sudeste
+C01479,Bruno Soares,Joinville,SC,Sul
+C01480,Igor Ferreira,Uberlândia,MG,Sudeste
+C01481,Débora Soares,Ribeirão Preto,SP,Sudeste
+C01482,Débora Silva,Rio de Janeiro,RJ,Sudeste
+C01483,Gabriela Martins,Goiânia,GO,Centro-Oeste
+C01484,Lucas Barbosa,Niterói,RJ,Sudeste
+C01485,Samuel Lima,Campinas,SP,Sudeste
+C01486,Pedro Barbosa,Niterói,RJ,Sudeste
+C01487,Felipe Lopes,Uberlândia,MG,Sudeste
+C01488,Nicolas Ribeiro,Santos,SP,Sudeste
+C01489,Isabela Almeida,Belo Horizonte,MG,Sudeste
+C01490,Eduarda Vieira,Salvador,BA,Nordeste
+C01491,Enzo Lima,Campinas,SP,Sudeste
+C01492,Nicolas Martins,Salvador,BA,Nordeste
+C01493,Gustavo Rodrigues,Ribeirão Preto,SP,Sudeste
+C01494,Felipe Carvalho,Ribeirão Preto,SP,Sudeste
+C01495,Júlia Soares,Santos,SP,Sudeste
+C01496,João Lima,Pelotas,RS,Sul
+C01497,Bruno Martins,Salvador,BA,Nordeste
+C01498,Felipe Santos,Brasília,DF,Centro-Oeste
+C01499,Pedro Souza,Niterói,RJ,Sudeste
+C01500,Karina Lima,Manaus,AM,Norte

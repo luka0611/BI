@@ -1,0 +1,64 @@
+product_id,product_name,category,subcategory,unit_price,unit_cost
+P0001,Smartphone Galaxy X,Eletrônicos,Smartphones,2389.01,533.82
+P0002,Smartphone Moto Edge,Eletrônicos,Smartphones,3873.05,815.85
+P0003,Smartphone iPro,Eletrônicos,Smartphones,2558.81,540.08
+P0004,Notebook Ultra 14,Eletrônicos,Notebooks,5897.93,1216.95
+P0005,Notebook Gamer Z,Eletrônicos,Notebooks,5384.27,1125.27
+P0006,Notebook Slim Air,Eletrônicos,Notebooks,5192.19,1187.78
+P0007,Fone Bluetooth Pulse,Eletrônicos,Áudio,263.61,97.41
+P0008,Caixa de Som JX,Eletrônicos,Áudio,401.37,159.14
+P0009,Headset Gamer HX,Eletrônicos,Áudio,362.63,128.63
+P0010,Carregador Turbo 30W,Eletrônicos,Acessórios,224.44,100.51
+P0011,Cabo USB-C 2m,Eletrônicos,Acessórios,335.89,158.57
+P0012,Power Bank 10000mAh,Eletrônicos,Acessórios,233.19,110.93
+P0013,Mouse Sem Fio Pro,Eletrônicos,Acessórios,162.09,74.03
+P0014,Teclado Mecânico K7,Eletrônicos,Acessórios,156.55,74.27
+P0015,Camiseta Básica Algodão,Moda,Roupas Masculinas,58.99,31.89
+P0016,Calça Jeans Slim,Moda,Roupas Masculinas,115.24,64.44
+P0017,Jaqueta Corta-Vento,Moda,Roupas Masculinas,210.5,117.11
+P0018,Bermuda Sarja,Moda,Roupas Masculinas,134.91,77.34
+P0019,Vestido Midi Floral,Moda,Roupas Femininas,259.77,149.71
+P0020,Blusa Cropped,Moda,Roupas Femininas,250.67,138.18
+P0021,Calça Legging Fit,Moda,Roupas Femininas,168.83,89.49
+P0022,Saia Jeans,Moda,Roupas Femininas,279.91,147.65
+P0023,Tênis Runner Flex,Moda,Calçados,173.85,80.86
+P0024,Sapatênis Casual,Moda,Calçados,377.55,186.88
+P0025,Sandália Comfort,Moda,Calçados,164.23,77.82
+P0026,Bota Coturno,Moda,Calçados,118.22,59.84
+P0027,Jogo de Panelas Antiaderente,Casa e Decoração,Cozinha,457.48,179.89
+P0028,Air Fryer 4L,Casa e Decoração,Cozinha,707.58,298.2
+P0029,Liquidificador Turbo,Casa e Decoração,Cozinha,896.65,355.28
+P0030,Jogo de Facas Inox,Casa e Decoração,Cozinha,579.21,228.82
+P0031,Luminária de Mesa LED,Casa e Decoração,Decoração,421.61,216.45
+P0032,Quadro Decorativo Abstrato,Casa e Decoração,Decoração,130.18,69.55
+P0033,Tapete Sala 2x1.5m,Casa e Decoração,Decoração,218.91,108.93
+P0034,Espelho Redondo 60cm,Casa e Decoração,Decoração,253.6,126.86
+P0035,Jogo de Cama Queen 4 Peças,Casa e Decoração,Cama e Banho,81.6,40.1
+P0036,Kit Toalhas Premium,Casa e Decoração,Cama e Banho,372.04,194.15
+P0037,Edredom Casal,Casa e Decoração,Cama e Banho,224.17,117.07
+P0038,Halteres 10kg Par,Esporte e Lazer,Fitness,329.15,165.53
+P0039,Tapete de Yoga,Esporte e Lazer,Fitness,73.24,38.59
+P0040,Corda de Pular Pro,Esporte e Lazer,Fitness,202.57,102.39
+P0041,Kit Elásticos de Treino,Esporte e Lazer,Fitness,176.09,90.67
+P0042,Bicicleta Aro 29,Esporte e Lazer,Ciclismo,1937.41,670.53
+P0043,Capacete MTB,Esporte e Lazer,Ciclismo,1429.14,503.1
+P0044,Farol Recarregável Bike,Esporte e Lazer,Ciclismo,2005.1,699.58
+P0045,Barraca 4 Pessoas,Esporte e Lazer,Camping,220.35,93.73
+P0046,Mochila Trilha 50L,Esporte e Lazer,Camping,280.9,124.93
+P0047,Garrafa Térmica 1L,Esporte e Lazer,Camping,166.79,70.16
+P0048,Kit Shampoo e Condicionador,Beleza e Saúde,Cabelos,236.48,126.63
+P0049,Secador Profissional 2000W,Beleza e Saúde,Cabelos,87.48,44.37
+P0050,Chapinha Cerâmica,Beleza e Saúde,Cabelos,241.01,128.04
+P0051,Sérum Vitamina C,Beleza e Saúde,Skincare,123.47,73.51
+P0052,Protetor Solar FPS 60,Beleza e Saúde,Skincare,86.93,51.81
+P0053,Creme Hidratante Facial,Beleza e Saúde,Skincare,181.61,106.39
+P0054,Perfume Essence 100ml,Beleza e Saúde,Perfumaria,314.97,189.89
+P0055,Body Splash Tropical,Beleza e Saúde,Perfumaria,120.34,74.96
+P0056,Box Trilogia Fantasia,Livros e Papelaria,Livros,92.75,35.71
+P0057,Romance Best-Seller,Livros e Papelaria,Livros,135.82,55.52
+P0058,Livro de Negócios,Livros e Papelaria,Livros,153.41,58.79
+P0059,HQ Edição Especial,Livros e Papelaria,Livros,37.28,15.19
+P0060,Caderno Inteligente A5,Livros e Papelaria,Papelaria,136.4,70.65
+P0061,Kit Canetas Coloridas,Livros e Papelaria,Papelaria,159.11,81.41
+P0062,Planner Anual,Livros e Papelaria,Papelaria,78.89,40.15
+P0063,Mochila Escolar Reforçada,Livros e Papelaria,Papelaria,140.01,68.06

@@ -1,0 +1,87 @@
+/// Dedicated measure table: keeps all KPIs in one place in the Fields pane.
+table _Measures
+
+	/// Net revenue: quantity x unit price, minus the line discount.
+	measure 'Total Sales' =
+			SUMX (
+				FactSales,
+				FactSales[quantity] * FactSales[unit_price] * ( 1 - FactSales[discount_pct] )
+			)
+		formatString: "R$" #,0.00
+
+	/// Cost of goods sold, looked up from the product dimension.
+	measure 'Total Cost' =
+			SUMX (
+				FactSales,
+				FactSales[quantity] * RELATED ( DimProducts[unit_cost] )
+			)
+		formatString: "R$" #,0.00
+
+	/// Gross profit = revenue minus cost of goods sold.
+	measure 'Total Margin' = [Total Sales] - [Total Cost]
+		formatString: "R$" #,0.00
+
+	/// Gross margin as a percentage of revenue. DIVIDE avoids division by zero.
+	measure 'Margin %' = DIVIDE ( [Total Margin], [Total Sales] )
+		formatString: 0.0%;-0.0%;0.0%
+
+	/// Number of unique orders (an order can have several lines).
+	measure 'Total Orders' = DISTINCTCOUNT ( FactSales[order_id] )
+		formatString: #,0
+
+	/// Total units sold.
+	measure 'Total Quantity' = SUM ( FactSales[quantity] )
+		formatString: #,0
+
+	/// Average revenue per order (ticket médio).
+	measure 'Average Order Value' = DIVIDE ( [Total Sales], [Total Orders] )
+		formatString: "R$" #,0.00
+
+	/// Customers who placed at least one order in the current filter context.
+	measure 'Active Customers' = DISTINCTCOUNT ( FactSales[customer_id] )
+		formatString: #,0
+
+	/// Revenue accumulated from January 1st to the current date context.
+	measure 'Sales YTD' = TOTALYTD ( [Total Sales], DimDate[Date] )
+		formatString: "R$" #,0.00
+
+	/// Revenue for the same period one year earlier.
+	measure 'Sales LY' =
+			CALCULATE (
+				[Total Sales],
+				DATEADD ( DimDate[Date], -1, YEAR )
+			)
+		formatString: "R$" #,0.00
+
+	/// Year-over-year growth. BLANK when there is no prior-year data.
+	measure 'Sales YoY %' =
+			VAR SalesLY = [Sales LY]
+			RETURN
+				DIVIDE ( [Total Sales] - SalesLY, SalesLY )
+		formatString: +0.0%;-0.0%;0.0%
+
+	/// Amount given away in discounts (full price minus net revenue).
+	measure 'Total Discount Given' =
+			SUMX (
+				FactSales,
+				FactSales[quantity] * FactSales[unit_price] * FactSales[discount_pct]
+			)
+		formatString: "R$" #,0.00
+
+	column Value
+		dataType: string
+		isHidden
+		summarizeBy: none
+		sourceColumn: Value
+
+		annotation SummarizationSetBy = Automatic
+
+	partition _Measures = m
+		mode: import
+		source =
+				let
+					Source = Table.FromRows ( {}, type table [ Value = text ] )
+				in
+					Source
+
+	annotation PBI_ResultType = Table
