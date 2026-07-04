@@ -5,7 +5,9 @@ modeled Power BI semantic model with DAX measures, built and versioned with
 the modern **Power BI Project (`.pbip`) format** so every part of the model is
 readable code on GitHub.
 
-> 📸 *Dashboard screenshots go in [`docs/screenshots/`](docs/screenshots/).*
+![Visão Geral — KPIs, receita mensal por ano e receita por categoria/região](docs/screenshots/dashboard-overview.png)
+
+*Visão Geral page — KPIs, monthly revenue by year and revenue by category/region, rendered from the project's dataset.*
 
 ## What this project demonstrates
 
